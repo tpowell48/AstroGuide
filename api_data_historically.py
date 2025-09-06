@@ -26,7 +26,6 @@ def fetch_in_chunks(start_date, end_date, api_key):
         
         params = {
             # 'api_key': api_key,
-            'concept_tags': True,
             'start_date': current_start.strftime('%Y-%m-%d'),
             'end_date': current_end.strftime('%Y-%m-%d'),
         }
@@ -51,7 +50,14 @@ def save_image(all_data):
     Downloads and saves an image from a URL.
     """
     for img in all_data:
-        apod_object_parser.download_image(img['hdurl'], img['date'], directory="APOD_DATA/IMAGES")
+        try:
+            apod_object_parser.download_image(img['hdurl'], img['date'], directory="APOD_DATA/IMAGES")
+        except KeyError:
+            pass
+        try:
+            apod_object_parser.download_image(img['url'], img['date'], directory="APOD_DATA/IMAGES")
+        except KeyError:
+            print(f"No image 'hdurl' or 'url' found for date {img.get('date', 'unknown')}. Skipping image download.")
 
 
 
