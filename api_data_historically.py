@@ -4,9 +4,9 @@ import requests
 import json
 from datetime import datetime, timedelta
 
-START_DATE = datetime(2025, 8, 6)
-END_DATE = datetime(2025, 9, 5)
-API_URL = 'http://192.168.110.89:8000/v1/apod/'
+START_DATE = datetime(2022, 12, 13)
+END_DATE = datetime(2025, 9, 8)
+API_URL = 'http://127.0.0.1:8000/v1/apod/'
 OUTPUT_FILENAME = 'apod_data.json'
 
 def fetch_in_chunks(start_date, end_date, api_key):
@@ -51,13 +51,9 @@ def save_image(all_data):
     """
     for img in all_data:
         try:
-            apod_object_parser.download_image(img['hdurl'], img['date'], directory="APOD_DATA/IMAGES")
-        except KeyError:
-            pass
-        try:
             apod_object_parser.download_image(img['url'], img['date'], directory="APOD_DATA/IMAGES")
         except KeyError:
-            print(f"No image 'hdurl' or 'url' found for date {img.get('date', 'unknown')}. Skipping image download.")
+            print(f"No image 'url' found for date {img.get('date', 'unknown')}. Skipping image download.")
 
 
 
