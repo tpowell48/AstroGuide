@@ -44,7 +44,7 @@ if __name__ == "__main__":
                     full_text = "\n".join(paragraphs)
                     textbook_data[module_id] = full_text
                     print(f"  - Extracted content from {module_id}")
-                    
+
             except ET.ParseError as e:
                 print(f"  - Error parsing {cnxml_file_path}: {e}")
         else:
@@ -54,6 +54,6 @@ if __name__ == "__main__":
     if textbook_data:
         with open(OUTPUT_FILENAME, 'w', encoding='utf-8') as f:
             json.dump(textbook_data, f, indent=4)
-        print(f"\n✅ Success! All textbook content saved to '{OUTPUT_FILENAME}'")
+        print(f"\nSuccess! All textbook content saved to '{OUTPUT_FILENAME}'")
     else:
-        print("\n❌ No data was extracted.")
+        print("\nNo data was extracted.")
