@@ -1,4 +1,5 @@
 config.py
 APOD_DATA/IMAGES
 __pycache__
+.DS_Store
 .env
