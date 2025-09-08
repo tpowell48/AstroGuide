@@ -1,3 +1,6 @@
 [submodule "osbooks-astronomy"]
 	path = osbooks-astronomy
 	url = https://github.com/tpowell48/osbooks-astronomy
+[submodule "apod-api"]
+	path = apod-api
+	url = https://github.com/tpowell48/apod-api
