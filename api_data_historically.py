@@ -6,8 +6,8 @@ from datetime import datetime, timedelta
 import os
 import sys
 
-START_DATE = datetime(2022, 12, 13)
-END_DATE = datetime(2025, 9, 8)
+START_DATE = datetime(2022, 12, 15)
+END_DATE = datetime(2025, 9, 10)
 API_URL = 'http://127.0.0.1:8000/v1/apod/'
 OUTPUT_FILENAME = 'apod_data.json'
 

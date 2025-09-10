@@ -1,24 +1,5 @@
 [
     {
-        "copyright": "\nGiulio Cobianchi\n",
-        "date": "2022-12-13",
-        "explanation": "Can the night sky be both art and science? If so, perhaps the featured image is an example. The digital panorama was composed of 10 landscape and 10 sky images all taken on the same night, from the same location, and with the same camera.  Iconic features in the image have been artfully brightened, and the ground nearby was artfully illuminated. Visible in the foreground is the creative photographer anchoring an amazing view from the rugged Lofoten Islands of Norway, two months ago, by holding a lamp. Far in the distance are three prominent arches: our Milky Way Galaxy on the left, while a scientifically-unusual double-arced aurora is documented on the right. A meteor is highlighted between them. Other notable skylights include, left to right, the Andromeda Galaxy, the planet Jupiter, the star Vega, and the stars that compose the Big Dipper asterism.",
-        "hdurl": "https://apod.nasa.gov/apod/image/2212/SkyArt_Cobianchi_2048.jpg",
-        "media_type": "image",
-        "service_version": "v1",
-        "title": "An Artful Sky over Lofoten Islands",
-        "url": "https://apod.nasa.gov/apod/image/2212/SkyArt_Cobianchi_1024.jpg"
-    },
-    {
-        "date": "2022-12-14",
-        "explanation": "Why is the Moon so dusty? On Earth, rocks are weathered by wind and water, creating soil and sand. On the Moon, the history of constant micrometeorite bombardment has blasted away at the rocky surface creating a layer of powdery lunar soil or regolith.  For the Apollo astronauts and their equipment, the pervasive, fine, gritty dust was definitely a problem. Fifty years ago, on the lunar surface in December 1972, Apollo 17 astronauts Harrison Schmitt and Eugene Cernan needed to repair one of their rover's fenders in an effort to keep the rooster tails of dust away from themselves and their gear. This picture reveals the wheel and fender of their dust covered rover along with the ingenious application of spare maps, clamps, and a grey strip of \"duct tape\".",
-        "hdurl": "https://apod.nasa.gov/apod/image/2212/AS17-137-20979.jpg",
-        "media_type": "image",
-        "service_version": "v1",
-        "title": "Lunar Dust and Duct Tape",
-        "url": "https://apod.nasa.gov/apod/image/2212/AS17-137-20979_1024.jpg"
-    },
-    {
         "copyright": "Tomas Slovinsky",
         "date": "2022-12-15",
         "explanation": "On December 8 a full Moon and a full Mars were close, both bright and opposite the Sun in planet Earth's sky. In fact Mars was occulted, passing behind the Moon when viewed from some locations across Europe and North America.  Seen from the city of Kosice in eastern Slovakia, the lunar occultation of Mars happened just before sunrise. The tantalizing spectacle was recorded in this telescopic timelapse sequence of exposures. It took about an hour for the Red Planet to disappear behind the lunar disk and then reappear as a warm-hued full Moon, the last full Moon of 2022, sank toward the western horizon. The next lunar occultation of bright planet Mars will be in the new year on January 3, when the Moon is in a waxing gibbous phase. Lunar occultations are only ever visible from a fraction of the Earth's surface, though. The January 3 occultation of Mars will be visible from parts of the South Atlantic, southern Africa, and the Indian Ocean.",
@@ -9583,7 +9564,7 @@
     },
     {
         "date": "2025-09-07",
-        "explanation": "How much of planet Earth is made of water? Very little, actually. Although oceans of water cover about 70 percent of Earth's surface, these oceans are shallow compared to the Earth's radius. The featured illustration shows what would happen if all of the water on or near the surface of the Earth were bunched up into a ball. The radius of this ball would be only about 700 kilometers, less than half the radius of the Earth's Moon, but slightly larger than Saturn's moon Rhea which, like many moons in our outer Solar System, is mostly water ice. The next smallest ball depicts all of Earth's liquid fresh water, while the tiniest ball shows the volume of all of Earth's fresh-water lakes and rivers. How any of this water came to be on the Earth and whether any significant amount is trapped far beneath Earth's surface remain topics of research.",
+        "explanation": "How much of planet Earth is made of water? Very little, actually. Although oceans of water cover about 70 percent of Earth's surface, these oceans are shallow compared to the Earth's radius. The featured illustration shows what would happen if all of the water on or near the surface of the Earth were bunched up into a ball. The radius of this ball would be only about 700 kilometers, less than half the radius of the Earth's Moon, and slightly smaller than Saturn's moon Rhea which, like many moons in our outer Solar System, is mostly water ice. The next smallest ball depicts all of Earth's liquid fresh water, while the tiniest ball shows the volume of all of Earth's fresh-water lakes and rivers. How any of this water came to be on the Earth and whether any significant amount is trapped far beneath Earth's surface remain topics of research.",
         "hdurl": "https://apod.nasa.gov/apod/image/2509/WaterlessEarth2_woodshole_2520.jpg",
         "media_type": "image",
         "service_version": "v1",
@@ -9598,5 +9579,24 @@
         "service_version": "v1",
         "title": "IRAS 04302: Butterfly Disk Planet Formation",
         "url": "https://apod.nasa.gov/apod/image/2509/IrasDisk_Webb_1080.jpg"
+    },
+    {
+        "date": "2025-09-09",
+        "explanation": "What's that rising up from the Earth? When circling the Earth on the International Space Station early in July, astronaut Nicole Ayers saw an unusual type of lightning rising up from the Earth: a gigantic jet. The powerful jet appears near the center of the featured image in red, white, and blue. Giant jet lightning has only been known about for the past 25 years. The atmospheric jets are associated with thunderstorms and extend upwards towards Earth's ionosphere.  The lower part of the frame shows the Earth at night, with Earth's thin atmosphere tinted green from airglow. City lights are visible, sometimes resolved, but usually creating diffuse white glows in intervening clouds.  The top of the frame reveals distant stars in the dark night sky. The nature of gigantic jets and their possible association with other types of Transient Luminous Events (TLEs) such as blue jets and red sprites remain active topics of research.",
+        "hdurl": "https://apod.nasa.gov/apod/image/2509/JetIss_nasa_6604.jpg",
+        "media_type": "image",
+        "service_version": "v1",
+        "title": "Up from the Earth: Gigantic Jet Lightning",
+        "url": "https://apod.nasa.gov/apod/image/2509/JetIss_nasa_960.jpg"
+    },
+    {
+        "copyright": "\nIan Moehring & Kevin Roylance \n",
+        "date": "2025-09-10",
+        "explanation": "It is one of the largest nebulas on the sky -- why isn't it better known? Roughly the same angular size as the Andromeda Galaxy, the Great Lacerta Nebula can be found toward the constellation of the Lizard (Lacerta). The emission nebula is difficult to see with wide-field binoculars because it is so faint, but also usually difficult to see with a large telescope because it is so great in angle -- spanning about three degrees. The depth, breadth, waves, and beauty of the nebula -- cataloged as Sharpless 126 (Sh2-126) -- can best be seen and appreciated with a long duration camera exposure. The featured image is one such combined exposure -- in this case taken over three nights in August through dark skies in Moses Lake, Washington, USA. The hydrogen gas in the Great Lacerta Nebula glows red because it is excited by light from the bright star 10 Lacertae, one of the bright blue stars just to the left of the red-glowing nebula's center.  Most of the stars and nebula are about 1,200 light years distant.    Jigsaw Universe: Astronomy Puzzle of the Day",
+        "hdurl": "https://apod.nasa.gov/apod/image/2509/GrLacerta_Moehring_5509.jpg",
+        "media_type": "image",
+        "service_version": "v1",
+        "title": "The Great Lacerta Nebula",
+        "url": "https://apod.nasa.gov/apod/image/2509/GrLacerta_Moehring_960.jpg"
     }
 ]
