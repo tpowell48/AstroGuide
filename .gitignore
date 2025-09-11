@@ -1,5 +1,6 @@
-config.py
-APOD_DATA/IMAGES
+DATA/config.py
+DATA/APOD_DATA/IMAGES
+RAG/rag_database_multimodal
 __pycache__
 .DS_Store
 .env
