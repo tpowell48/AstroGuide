@@ -1,10 +1,9 @@
-from config import API_KEY
+import sys
+import os
 import importlib
 import requests
 import json
 from datetime import datetime, timedelta
-import os
-import sys
 
 START_DATE = datetime(2022, 12, 15)
 END_DATE = datetime(2025, 9, 10)
@@ -16,7 +15,7 @@ sys.path.insert(0, os.getcwd())
 
 try:
     # Import the apod_object_parser.py file directly
-    apod_module = importlib.import_module("apod-api.apod_parser.apod_object_parser")
+    apod_module = importlib.import_module("apod-api.apod_parser.apod_object_parser") #apod-api/apod_parser/apod_object_parser.py
     
     print("Successfully imported the 'apod_object_parser' module!")
 
@@ -27,7 +26,7 @@ except AttributeError as e:
     print(f"AttributeError: The module was found, but an object was not inside it: {e}")
 
 
-def fetch_in_chunks(start_date, end_date, api_key):
+def fetch_in_chunks(start_date, end_date):
     """
     Fetches APOD data in monthly chunks to avoid timeouts.
     """
@@ -43,7 +42,6 @@ def fetch_in_chunks(start_date, end_date, api_key):
         print(f"Fetching data from {current_start.strftime('%Y-%m-%d')} to {current_end.strftime('%Y-%m-%d')}...")
         
         params = {
-            # 'api_key': api_key,
             'start_date': current_start.strftime('%Y-%m-%d'),
             'end_date': current_end.strftime('%Y-%m-%d'),
         }
@@ -73,11 +71,9 @@ def save_image(all_data):
         except KeyError:
             print(f"No image 'url' found for date {img.get('date', 'unknown')}. Skipping image download.")
 
-
-
 # --- Run the script ---
 if __name__ == "__main__":
-    final_data = fetch_in_chunks(START_DATE, END_DATE, API_KEY)
+    final_data = fetch_in_chunks(START_DATE, END_DATE)
     
     if final_data:
         with open("APOD_DATA/" + OUTPUT_FILENAME, 'w') as f:
