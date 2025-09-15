@@ -1,102 +1,101 @@
-import chromadb
 import json
-from sentence_transformers import SentenceTransformer
+import pandas as pd
+import chromadb
 import os
-from PIL import Image
+from sentence_transformers import SentenceTransformer
 
 # --- Configuration ---
 OPENSTAX_JSON_PATH = 'DATA/OPENSTAX_DATA/OpenStax_Astronomy2e.json'
 APOD_JSON_PATH = 'DATA/APOD_DATA/apod_data.json'
-# IMPORTANT: Point this to the directory where you downloaded your APOD images
-APOD_IMAGE_DIR = 'DATA/APOD_DATA/IMAGES' 
-DB_PATH = 'RAG/rag_database_multimodal'
-COLLECTION_NAME = 'multimodal_rag'
+APOD_IMAGE_DIR = 'DATA/APOD_DATA/IMAGES' # The folder where your APOD images are saved
 
-def add_to_collection_in_batches(collection, documents, metadatas, ids, batch_size=4000):
-    """Adds documents to a ChromaDB collection in smaller batches."""
-    for i in range(0, len(documents), batch_size):
-        print(f"  - Adding batch {i // batch_size + 1}...")
-        collection.add(
-            documents=documents[i:i + batch_size],
-            metadatas=metadatas[i:i + batch_size],
-            ids=ids[i:i + batch_size]
-        )
+def text_to_embedding(text, model):
+    """Generates a vector embedding for a given text."""
+    text = text.replace("\n", " ")
+    return model.encode(text)
 
 # --- Main Execution ---
 if __name__ == "__main__":
-    print("Initializing model and vector database...")
-    model = SentenceTransformer('all-MiniLM-L6-v2')
-    client = chromadb.PersistentClient(path=DB_PATH)
-    collection = client.get_or_create_collection(name=COLLECTION_NAME)
+    # Initialize a text-embedding model
+    print("Initializing embedding model...")
+    # Using a text-specific model is more efficient for this task
+    embedding_model = SentenceTransformer('all-MiniLM-L6-v2')
 
-    # --- Process OpenStax Data ---
-    print("\n--- Processing OpenStax Textbook ---")
+    # Create an empty DataFrame and a list to hold all new rows
+    df = pd.DataFrame(columns=['id', 'media_type', 'text', 'embeddings'])
+    all_new_rows = []
+
+    # --- Process OpenStax Textbook Data ---
+    print(f"\n--- Loading and processing '{OPENSTAX_JSON_PATH}' ---")
     try:
         with open(OPENSTAX_JSON_PATH, 'r', encoding='utf-8') as f:
             textbook_data = json.load(f)
 
-        documents_text, metadatas_text, ids_text = [], [], []
-        doc_id = 0
-        print("Generating embeddings for OpenStax data...")
-        for url, text_content in textbook_data.items():
-            if text_content:
-                chunks = text_content.split('\n')
-                for i, chunk in enumerate(chunks):
-                    if len(chunk.strip()) > 10:
-                        documents_text.append(chunk.strip())
-                        metadatas_text.append({'source': 'openstax', 'url': url, 'type': 'text'})
-                        ids_text.append(f'openstax_{doc_id}_{i}')
-                doc_id += 1
-        
-        if documents_text:
-            add_to_collection_in_batches(collection, documents_text, metadatas_text, ids_text)
-            print(f"Successfully added {len(documents_text)} text chunks from OpenStax.")
+        for module_id, text_content in textbook_data.items():
 
-    except Exception as e:
-        print(f"An error occurred processing OpenStax data: {e}")
+            if text_content and isinstance(text_content, str):
+                embedding = text_to_embedding(text_content, embedding_model)
+                new_row = {
+                    'id': module_id,
+                    'media_type': 'text',
+                    'text': text_content,
+                    'embeddings': embedding
+                }
+                all_new_rows.append(new_row)
+    except FileNotFoundError:
+        print(f"Warning: File not found at '{OPENSTAX_JSON_PATH}'. Skipping.")
 
-    # --- Process APOD Data ---
-    print("\n--- Processing APOD Summaries and Images ---")
+    # --- Process APOD Explanation Data ---
+    print(f"\n--- Loading and processing '{APOD_JSON_PATH}' ---")
     try:
         with open(APOD_JSON_PATH, 'r', encoding='utf-8') as f:
             apod_data = json.load(f)
 
-        # --- SEPARATE TEXT AND IMAGE PROCESSING ---
-        text_docs, text_metadatas, text_ids = [], [], []
-        image_docs, image_metadatas, image_ids = [], [], []
-
         for item in apod_data:
-            summary = item.get('explanation')
-            image_url = item.get('url')
             date = item.get('date')
-            if not (summary and image_url and date): continue
+            summary = item.get('explanation')
             
-            unique_id_base = f"{os.path.basename(image_url).split('.')[0]}_{date}"
-            
-            # Prepare TEXT summary
-            text_docs.append(summary)
-            text_metadatas.append({'source': 'apod', 'url': image_url, 'type': 'text_summary', 'title': item.get('title', ''), 'date': item.get('date', '')})
-            text_ids.append(f'apod_text_{unique_id_base}')
-            
-            # Prepare IMAGE data
-            local_image_path = os.path.join(APOD_IMAGE_DIR, f"{item.get('date')}.jpg")
-            if os.path.exists(local_image_path):
-                image_docs.append(local_image_path) # Placeholder for image path
-                image_metadatas.append({'source': 'apod', 'url': image_url, 'type': 'image', 'title': item.get('title', ''), 'date': item.get('date', '')})
-                image_ids.append(f'apod_image_{unique_id_base}')
-        
-        # --- Add to collection in separate steps ---
-        if text_docs:
-            print("\nAdding APOD text summaries...")
-            add_to_collection_in_batches(collection, text_docs, text_metadatas, text_ids)
-            print(f"Successfully added {len(text_docs)} APOD text items.")
-        
-        if image_docs:
-            print("\nAdding APOD images...")
-            add_to_collection_in_batches(collection, image_docs, image_metadatas, image_ids)
-            print(f"Successfully added {len(image_docs)} APOD image items.")
+            if date and summary:
+                image_path = os.path.join(APOD_IMAGE_DIR, f"{date}.jpg")
+                
+                # We only add an entry if the corresponding image exists locally
+                if os.path.exists(image_path):
+                    # Generate an embedding for the TEXT EXPLANATION
+                    embedding = text_to_embedding(summary, embedding_model)
+                    
+                    new_row = {
+                        'id': image_path, # The ID is the path to the image
+                        'media_type': 'image', # Signifies this text describes an image
+                        'text': summary,
+                        'embeddings': embedding
+                    }
+                    all_new_rows.append(new_row)
+    except FileNotFoundError:
+        print(f"Warning: File not found at '{APOD_JSON_PATH}'. Skipping.")
 
-    except Exception as e:
-        print(f"An error occurred processing APOD data: {e}")
+    # Concatenate all rows into the DataFrame
+    if all_new_rows:
+        df = pd.concat([df, pd.DataFrame(all_new_rows)], ignore_index=True)
+    
+    # Set up the ChromaDB client and collection
+    print("Setting up ChromaDB...")
+    client = chromadb.PersistentClient(path="RAG/chroma_db")
+    collection = client.get_or_create_collection(name="multimodal_knowledge_base")
 
-    print(f"\nKnowledge base build complete. Total items in collection: {collection.count()}")
+    # Prepare the data for ChromaDB from your DataFrame
+    # ChromaDB needs lists of ids, embeddings, metadatas, and documents
+    ids = [f"item_{i}" for i in range(len(df))]
+    embeddings = df['embeddings'].tolist()
+    metadatas = df[['id', 'media_type']].to_dict('records')
+    documents = df['text'].tolist()
+
+    # Add the data to the collection
+    print(f"Adding {len(df)} items to the collection...")
+    collection.add(
+        ids=ids,
+        embeddings=embeddings,
+        metadatas=metadatas,
+        documents=documents
+    )
+
+    print(f"Success! The collection now contains {collection.count()} items.")
