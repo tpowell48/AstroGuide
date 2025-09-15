@@ -5,10 +5,10 @@ import requests
 import json
 from datetime import datetime, timedelta
 
-START_DATE = datetime(2022, 12, 15)
-END_DATE = datetime(2025, 9, 10)
+START_DATE = datetime(2022, 12, 20)
+END_DATE = datetime(2025, 9, 15)
 API_URL = 'http://127.0.0.1:8000/v1/apod/'
-OUTPUT_FILENAME = 'apod_data.json'
+OUTPUT_FILENAME = 'DATA/APOD_DATA/apod_data.json'
 
 # Add the current directory to Python's path to ensure it finds 'apod-api'
 sys.path.insert(0, os.getcwd())
@@ -67,7 +67,7 @@ def save_image(all_data):
     """
     for img in all_data:
         try:
-            apod_module.download_image(img['url'], img['date'], directory="APOD_DATA/IMAGES")
+            apod_module.download_image(img['url'], img['date'], directory="DATA/APOD_DATA/IMAGES")
         except KeyError:
             print(f"No image 'url' found for date {img.get('date', 'unknown')}. Skipping image download.")
 
@@ -76,7 +76,7 @@ if __name__ == "__main__":
     final_data = fetch_in_chunks(START_DATE, END_DATE)
     
     if final_data:
-        with open("APOD_DATA/" + OUTPUT_FILENAME, 'w') as f:
+        with open(OUTPUT_FILENAME, 'w') as f:
             json.dump(final_data, f, indent=4)
         print(f"\nSuccessfully downloaded and saved all data to {OUTPUT_FILENAME}")
     else:

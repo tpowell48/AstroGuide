@@ -1,54 +1,5 @@
 [
     {
-        "copyright": "Tomas Slovinsky",
-        "date": "2022-12-15",
-        "explanation": "On December 8 a full Moon and a full Mars were close, both bright and opposite the Sun in planet Earth's sky. In fact Mars was occulted, passing behind the Moon when viewed from some locations across Europe and North America.  Seen from the city of Kosice in eastern Slovakia, the lunar occultation of Mars happened just before sunrise. The tantalizing spectacle was recorded in this telescopic timelapse sequence of exposures. It took about an hour for the Red Planet to disappear behind the lunar disk and then reappear as a warm-hued full Moon, the last full Moon of 2022, sank toward the western horizon. The next lunar occultation of bright planet Mars will be in the new year on January 3, when the Moon is in a waxing gibbous phase. Lunar occultations are only ever visible from a fraction of the Earth's surface, though. The January 3 occultation of Mars will be visible from parts of the South Atlantic, southern Africa, and the Indian Ocean.",
-        "hdurl": "https://apod.nasa.gov/apod/image/2212/MarsTrailsSMALL.jpg",
-        "media_type": "image",
-        "service_version": "v1",
-        "title": "Full Moon, Full Mars",
-        "url": "https://apod.nasa.gov/apod/image/2212/MarsTrailsSMALL1024.jpg"
-    },
-    {
-        "copyright": "Jeff Dai",
-        "date": "2022-12-16",
-        "explanation": "Returning from beyond the Moon, on December 11 the Orion spacecraft entered Earth's atmosphere at almost 11 kilometers per second. That's half the speed of the grain of dust that created this long fireball meteor when it entered the atmosphere on December 13, near the peak of the annual Geminid meteor shower. As our fair planet makes its yearly pass through the dust trail of mysterious asteroid 3200 Phaethon, the parallel tracks of all Geminid meteors appear to radiate from a point in the constellation Gemini. But the twin stars of Gemini hide just behind the trees on the left in this night skyscape from the beautiful Blue Moon Valley, Yunnan, China. Reflected in the still waters of the mountain lake, stars of the constellation Orion are rising near center. Captured before moonrise, dazzling Mars is still the brightest celestial beacon in the scene.",
-        "hdurl": "https://apod.nasa.gov/apod/image/2212/GeminidoverBluemoonvalley-2000.jpg",
-        "media_type": "image",
-        "service_version": "v1",
-        "title": "The Geminid",
-        "url": "https://apod.nasa.gov/apod/image/2212/GeminidoverBluemoonvalley-1024.jpg"
-    },
-    {
-        "date": "2022-12-17",
-        "explanation": "Get out your red/blue glasses and check out this stereo scene from Taurus-Littrow valley on the Moon! The color anaglyph features a detailed 3D view of Apollo 17's Lunar Rover in the foreground -- behind it lies the Lunar Module and distant lunar hills. Because the world was going to be able to watch the Lunar Module's ascent stage liftoff via the rover's TV camera, this parking place was also known as the VIP Site. Fifty years ago, in December of 1972, Apollo 17 astronauts Eugene Cernan and Harrison Schmitt spent about 75 hours on the Moon, while colleague Ronald Evans orbited overhead. The crew returned with 110 kilograms of rock and soil samples, more than from any of the other lunar landing sites. Cernan and Schmitt are still the last to walk (or drive) on the Moon.",
-        "hdurl": "https://apod.nasa.gov/apod/image/2212/a17anaglyph_vanMeijgaarden_f.jpg",
-        "media_type": "image",
-        "service_version": "v1",
-        "title": "Apollo 17 VIP Site Anaglyph",
-        "url": "https://apod.nasa.gov/apod/image/2212/a17anaglyph_vanMeijgaarden_1024v.jpg"
-    },
-    {
-        "copyright": "\nTragoolchitr Jittasaiyapan\n",
-        "date": "2022-12-18",
-        "explanation": "Do you know the names of some of the brightest stars? It's likely that you do, even though some bright stars have names so old they date back to near the beginning of written language. Many world cultures have their own names for the brightest stars, and it is culturally and historically important to remember them.  In the interest of clear global communication, however, the International Astronomical Union (IAU) has begun to designate standardized star names.  Featured here in true color are the 25 brightest stars in the night sky, currently as seen by humans, coupled with their IAU-recognized names. Some star names have interesting meanings, including Sirius (\"the scorcher\" in Latin), Vega (\"falling\" in Arabic), and Antares (\"rival to Mars\" in Greek). You are likely even familiar with the name of at least one star too dim to make this list: Polaris.    Almost Hyperspace: Random APOD Generator",
-        "hdurl": "https://apod.nasa.gov/apod/image/2212/25BrightestStars_Jittasaiyapan_1500.jpg",
-        "media_type": "image",
-        "service_version": "v1",
-        "title": "25 Brightest Stars in the Night Sky",
-        "url": "https://apod.nasa.gov/apod/image/2212/25BrightestStars_Jittasaiyapan_960.jpg"
-    },
-    {
-        "copyright": "\nCraig Stocks\n(Utah Desert Remote Observatories)\n",
-        "date": "2022-12-19",
-        "explanation": "What's causing the commotion in the Tadpole Nebula? Star formation.  Dusty emission in the Tadpole Nebula, IC 410, lies about 12,000 light-years away in the northern constellation of the Charioteer (Auriga). The cloud of glowing gas is over 100 light-years across, sculpted by stellar winds and radiation from embedded open star cluster NGC 1893. Formed in the interstellar cloud a mere 4 million years ago, bright newly formed cluster stars are seen all around the star-forming nebula.  Notable on the lower-right of the featured image are two relatively dense streamers of material trailing away from the nebula's central regions. Potentially sites of ongoing star formation in IC 410, these cosmic tadpole shapes are about 10 light-years long. The image was processed highlighting the emission from sulfur (red), hydrogen (green), and oxygen (blue) gas -- but with the stars digitally removed.",
-        "hdurl": "https://apod.nasa.gov/apod/image/2212/Tadpoles_Stocks_2560.jpg",
-        "media_type": "image",
-        "service_version": "v1",
-        "title": "The Tadpole Nebula in Gas and Dust",
-        "url": "https://apod.nasa.gov/apod/image/2212/Tadpoles_Stocks_960.jpg"
-    },
-    {
         "copyright": "\nHannah Rochford\n",
         "date": "2022-12-20",
         "explanation": "Thor not only has his own day (Thursday), but a helmet in the heavens.  Popularly called Thor's Helmet, NGC 2359 is a hat-shaped cosmic cloud with wing-like appendages. Heroically sized even for a Norse god, Thor's Helmet is about 30 light-years across. In fact, the cosmic head-covering is more like an interstellar bubble, blown with a fast wind from the bright, massive star near the bubble's center. Known as a Wolf-Rayet star, the central star is an extremely hot giant thought to be in a brief, pre-supernova stage of evolution. NGC 2359 is located about 15,000 light-years away toward the constellation of the Great Overdog. This remarkably sharp image is a mixed cocktail of data from  narrowband filters, capturing not only natural looking stars but details of the nebula's filamentary structures. The star in the center of Thor's Helmet is expected to explode in a spectacular supernova sometime within the next few thousand years.    Almost Hyperspace: Random APOD Generator",
@@ -9598,5 +9549,50 @@
         "service_version": "v1",
         "title": "The Great Lacerta Nebula",
         "url": "https://apod.nasa.gov/apod/image/2509/GrLacerta_Moehring_960.jpg"
+    },
+    {
+        "copyright": "Wang Letian",
+        "date": "2025-09-11",
+        "explanation": "The dark, inner shadow of planet Earth is called the umbra. Shaped like a cone extending into space, it has a circular cross section most easily seen during a lunar eclipse. And on the night of September 7/8 the Full Moon passed near the center of Earth's umbral cone, entertaining eclipse watchers around much of our fair planet, including parts of Antarctica, Australia, Asia, Europe, and Africa. Recorded from Zhangjiakou City, China, this timelapse composite image uses successive pictures from the total lunar eclipse, progressing left to right, to reveal the curved cross-section of the umbral shadow sliding across the Moon. Sunlight scattered by the atmosphere into Earth's umbra causes the lunar surface to appear reddened during totality. But close to the umbra's edge, the limb of the eclipsed Moon shows a distinct blue hue. The blue eclipsed moonlight originates as rays of sunlight pass through layers high in the upper stratosphere, colored by ozone that scatters red light and transmits blue. In the total phase of this leisurely lunar eclipse, the Moon was completely within the Earth's umbra for about 83 minutes.",
+        "hdurl": "https://apod.nasa.gov/apod/image/2509/UmbraEarth.jpg",
+        "media_type": "image",
+        "service_version": "v1",
+        "title": "The Umbra of Earth",
+        "url": "https://apod.nasa.gov/apod/image/2509/UmbraEarth1050.jpg"
+    },
+    {
+        "copyright": "Zhouyue Zhu",
+        "date": "2025-09-12",
+        "explanation": "September's total lunar eclipse is tracked across night skies from both the northern and southern hemispheres of planet Earth in these two dramatic timelapse series. In the northern hemisphere sequence (top panel) the Moon\u2019s trail arcs from the upper left to the lower right. It passes below bright planet Saturn, seen under mostly clear skies from the international campus of Zhejiang University in China at about 30 degrees north latitude. In contrast, the southern hemisphere view from Lake Griffin, Canberra, Australia at 35 degrees south latitude, records the Moon\u2019s trail from the upper right to the lower left. Multiple lightning flashes from thunderstorms near the horizon appear reflected in the lake. Both sequences were photographed with 16mm wide-angle lenses and both cover the entire eclipse, with the darkened red Moon totally immersed in Earth's umbral shadow near center. But the different orientations of the Moon\u2019s path across the sky reveal the perspective shifts caused by the views from northern vs. southern latitudes.",
+        "hdurl": "https://apod.nasa.gov/apod/image/2509/APODtwo_hemisphere_combined_no_text.jpg",
+        "media_type": "image",
+        "service_version": "v1",
+        "title": "Lunar Eclipse in Two Hemispheres",
+        "url": "https://apod.nasa.gov/apod/image/2509/APODtwo_hemisphere_combined_no_text1065.jpg"
+    },
+    {
+        "copyright": "Joao Yordanov Serralheiro",
+        "date": "2025-09-13",
+        "explanation": "The steerable 60 foot diameter dish antenna of the One-Mile Telescope at Mullard Radio Astronomy Observatory, Cambridge, UK, is pointing skyward in this evocative night-skyscape. To capture the dramatic scene, consecutive 30 second exposures were recorded over a period of 90 minutes. Combined, the exposures reveal a background of gracefully arcing star trails that reflect planet Earth's daily rotation on its axis. The North Celestial Pole, the extension of Earth's axis of rotation into space, points near Polaris, the North Star. That's the bright star that creates the short trail near the center of the concentric arcs. But the historic One-Mile Telescope array also relied on planet Earth's rotation to operate. Exploring the universe at radio wavelengths, it was the first radio telescope to use Earth-rotation aperture synthesis. That technique uses the rotation of the Earth to change the relative orientation of the telescope array and celestial radio sources to create radio maps of the sky at a resolution better than that of the human eye.",
+        "hdurl": "https://apod.nasa.gov/apod/image/2509/StarTrailsOne-MileRadioTelescope2100.jpg",
+        "media_type": "image",
+        "service_version": "v1",
+        "title": "Star Trails over One-Mile Radio Telescope",
+        "url": "https://apod.nasa.gov/apod/image/2509/StarTrailsOne-MileRadioTelescope1050.jpg"
+    },
+    {
+        "date": "2025-09-14",
+        "explanation": "How does your favorite planet spin? Does it spin rapidly around a nearly vertical axis, or horizontally, or backwards?  The featured video animates NASA images of all eight planets in our Solar System to show them spinning side-by-side for an easy comparison. In the time-lapse video, a day on Earth -- one Earth rotation -- takes just a few seconds.  Jupiter rotates the fastest, while Venus spins not only the slowest (can you see it?), but backwards.  The inner rocky planets across the top underwent dramatic spin-altering collisions during the early days of the Solar System.  Why planets spin and tilt as they do remains a topic of research with much insight gained from modern computer modeling and the recent discovery and analysis of hundreds of exoplanets: planets orbiting other stars.",
+        "media_type": "video",
+        "service_version": "v1",
+        "title": "Planets of the Solar System: Tilts and Spins",
+        "url": "https://www.youtube.com/embed/my1euFQHH-o?rel=0"
+    },
+    {
+        "date": "2025-09-15",
+        "explanation": "Can our Sun become dangerous? Yes, sometimes. Every few years our Sun ejects a scary-large bubble of hot gas into the Solar System.  Every hundred years or so, when the timing, location, and magnetic field connections are just right, such a Coronal Mass Ejection (CME) will hit the Earth. When this happens, the Earth not only experiences dramatic auroras, but its magnetic field gets quickly pushed back and compressed, which causes electric grids to surge. Some of these surges could be dangerous, affecting satellites and knocking out power grids -- which can take months to fix.  Just such a storm -- called the Carrington Event -- occurred in 1859 and caused telegraph wires to spark. A similar CME passed near the Earth in 2012, and the featured animated video shows a computer model of what might have happened if it had been a direct hit.  In this model, the Earth's magnetopause becomes so compressed that it went inside the orbit of  geosynchronous communication satellites.",
+        "media_type": "other",
+        "service_version": "v1",
+        "title": "Earth During a Powerful Solar Storm"
     }
 ]
