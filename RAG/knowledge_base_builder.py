@@ -76,7 +76,7 @@ if __name__ == "__main__":
     # Concatenate all rows into the DataFrame
     if all_new_rows:
         df = pd.concat([df, pd.DataFrame(all_new_rows)], ignore_index=True)
-    
+        
     # Set up the ChromaDB client and collection
     print("Setting up ChromaDB...")
     client = chromadb.PersistentClient(path="RAG/chroma_db")
