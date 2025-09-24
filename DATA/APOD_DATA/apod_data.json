@@ -342,15 +342,6 @@
         "url": "https://apod.nasa.gov/apod/image/2301/Arp274_HubbleOzsarac_1080.jpg"
     },
     {
-        "date": "2023-01-24",
-        "explanation": "If you could stand on exoplanet LHS 475 b, what might you see? No one knows for sure but pictured here is an interesting guess made by an Earth-based artificial intelligence (AI) engine. The existence of the exoplanet was indicated in data taken by the Earth-orbiting TESS satellite but confirmed and further investigated only this year by the near-Earth Sun-orbiting James Webb Space Telescope. What is known for sure is that LHS 475 b has a mass very similar to our Earth and closely orbits a small red star about 40 light years away. The featured AI-illustrated guess depicts a plausibly rugged Earth-like landscape replete with molten lava and with the central red star rising in the distance. Webb data does not as yet reveal, however, whether LHS 475 b has an atmosphere. One of Webb\u2019s science objectives is to follow up previous discoveries of distant exoplanets to better discern their potential for developing life.    Comet ZTF Gallery: Notable Submissions to APOD",
-        "hdurl": "https://apod.nasa.gov/apod/image/2301/RockyRed7_DeepAI_960.jpg",
-        "media_type": "image",
-        "service_version": "v1",
-        "title": "LHS 475 b: Earth-Sized Exoplanet",
-        "url": "https://apod.nasa.gov/apod/image/2301/RockyRed7_DeepAI_960.jpg"
-    },
-    {
         "copyright": "\nJoshua Carter\n",
         "date": "2023-01-25",
         "explanation": "To some, the dark shape looks like a mythical boogeyman.  Scientifically, Lynds' Dark Nebula (LDN) 1622 appears against a faint background of glowing hydrogen gas only visible in long telescopic exposures of the region. In contrast, the brighter reflection nebula vdB 62 is more easily seen just above and to the right of center in the featured image. LDN 1622 lies near the plane of our Milky Way Galaxy, close on the sky to Barnard's Loop, a large cloud surrounding the rich complex of emission nebulae found in the Belt and Sword of Orion. With swept-back outlines, the obscuring dust of LDN 1622 is thought to lie at a similar distance, perhaps 1,500 light-years away. At that distance, this 2-degree wide field of view would span about 60 light-years. Young stars do lie hidden within the dark expanse and have been revealed in Spitzer Space Telescope infrared images.",
@@ -877,15 +868,6 @@
         "url": "https://apod.nasa.gov/apod/image/2303/MayanMilkyWay_Fernandez_1080.jpg"
     },
     {
-        "copyright": "\nDetlef Hartmann\n",
-        "date": "2023-03-20",
-        "explanation": "Are your eyes good enough to see the Crab Nebula expand?  The Crab Nebula is cataloged as M1, the first on Charles Messier's famous list of things which are not comets. In fact, the Crab is now known to be a supernova remnant, an expanding cloud of debris from the explosion of a massive star. The violent birth of the Crab was witnessed by astronomers in the year 1054. Roughly 10 light-years across today, the nebula is still expanding at a rate of over 1,000 kilometers per second. Over the past decade, its expansion has been documented in this stunning time-lapse movie. In each year from 2008 to 2022, an image was produced with the same telescope and camera from a remote observatory in Austria. The sharp, processed frames even reveal the dynamic energetic emission surrounding the rapidly spinning pulsar at the center.  The Crab Nebula lies about 6,500 light-years away toward the constellation of the Bull (Taurus).",
-        "media_type": "video",
-        "service_version": "v1",
-        "title": "M1: The Expanding Crab Nebula",
-        "url": "https://www.youtube.com/embed/wfzz8FUD4TM?rel=0"
-    },
-    {
         "copyright": "\nVikas Chander\n",
         "date": "2023-03-21",
         "explanation": "Can dust be beautiful? Yes, and it can also be useful.  The Taurus molecular cloud has several bright stars, but it is the dark dust that really draws attention.  The pervasive dust has waves and ripples and makes picturesque dust bunnies, but perhaps more importantly, it marks regions where interstellar gas is dense enough to gravitationally contract to form stars. In the image center is a light cloud lit by neighboring stars that is home not only to a famous nebula, but to a very young and massive famous star.  Both the star, T Tauri, and the nebula, Hind's Variable Nebula, are seen to vary dramatically in brightness -- but not necessarily at the same time, adding to the mystery of this intriguing region. T Tauri and similar stars are now generally recognized to be Sun-like stars that are less than a few million years old and so still in the early stages of formation. The featured image spans about four degrees not far from the Pleiades star cluster, while the featured dust field lies about 400 light-years away.",
@@ -934,14 +916,6 @@
         "service_version": "v1",
         "title": "Venus and the Da Vinci Glow",
         "url": "https://apod.nasa.gov/apod/image/2303/_GHR3094-venerelunafirma800.jpg"
-    },
-    {
-        "date": "2023-03-26",
-        "explanation": "How far out will humanity explore? If this video's fusion of real space imagery and fictional space visualizations is on the right track, then at least the Solar System. Some of the video's wondrous sequences depict future humans drifting through the rings of Saturn, exploring Jupiter from a nearby spacecraft, and jumping off a high cliff in the low gravity of a moon of Uranus. Although no one can know the future, wandering and exploring beyond boundaries -- both physical and intellectual -- is part of the human spirit and has frequently served humanity well in the past.",
-        "media_type": "video",
-        "service_version": "v1",
-        "title": "Wanderers",
-        "url": "//player.vimeo.com/video/108650530?title=0&byline=0&portrait=0&badge=0&color=ffffff"
     },
     {
         "copyright": "\nCari Letelier\n",
@@ -1567,14 +1541,6 @@
         "url": "https://apod.nasa.gov/apod/image/2305/M27_Cosgrove_960.jpg"
     },
     {
-        "date": "2023-05-31",
-        "explanation": "How did we get here? We know that we live on a planet orbiting a star orbiting a galaxy, but how did all of this form? Since our universe moves too slowly to watch, faster-moving computer simulations are created to help find out. Specifically, this featured video from the IllustrisTNG collaboration tracks gas from the early universe (redshift 12) until today (redshift 0). As the simulation begins, ambient gas falls into and accumulates in a region of relatively high gravity.  After a few billion years, a well-defined center materializes from a strange and fascinating cosmic dance. Gas blobs -- some representing small satellite galaxies -- continue to fall into and become absorbed by the rotating galaxy as the present epoch is reached and the video ends.  For the Milky Way Galaxy, however, big mergers may not be over -- recent evidence indicates that our large spiral disk Galaxy will collide and coalesce with the slightly larger Andromeda spiral disk galaxy in the next few billion years.    Open Science: Browse 3,000+ codes in the Astrophysics Source Code Library",
-        "media_type": "video",
-        "service_version": "v1",
-        "title": "Simulation: A Disk Galaxy Forms",
-        "url": "https://www.youtube.com/embed/X4UF9Akman0?rel=0"
-    },
-    {
         "date": "2023-06-01",
         "explanation": "Massive stars in our Milky Way Galaxy live spectacular lives.  Collapsing from vast cosmic clouds, their nuclear furnaces ignite and create heavy elements in their cores. After a few million years, the enriched material is blasted back into interstellar space where star formation can begin anew. The expanding debris cloud known as Cassiopeia A is an example of this final phase of the stellar life cycle. Light from the explosion which created this supernova remnant would have been first seen in planet Earth's sky about 350 years ago, although it took that light about 11,000 years to reach us. This false-color image, composed of X-ray and optical image data from the Chandra X-ray Observatory and Hubble Space Telescope, shows the still hot filaments and knots in the remnant. It spans about 30 light-years at the estimated distance of Cassiopeia A. High-energy X-ray emission from specific elements has been color coded, silicon in red, sulfur in yellow, calcium in green and iron in purple, to help astronomers explore the recycling of our galaxy's star stuff. Still expanding, the outer blast wave is seen in blue hues. The bright speck near the center is a neutron star, the incredibly dense, collapsed remains of the massive stellar core.",
         "hdurl": "https://apod.nasa.gov/apod/image/2306/Chandrafirstlight_0.jpg",
@@ -1619,14 +1585,6 @@
         "service_version": "v1",
         "title": "In the Center of the Trifid Nebula",
         "url": "https://apod.nasa.gov/apod/image/2306/Trifid_Pugh_1080.jpg"
-    },
-    {
-        "date": "2023-06-06",
-        "explanation": "It\u2019s the end of a world as we know it. Specifically, the Sun-like star ZTF SLRN-2020 was seen eating one of its own planets. Although many a planet eventually dies by spiraling into their central star, the 2020 event, involving a Jupiter-like planet, was the first time it was seen directly.  The star ZTF SLRN-2020 lies about 12,000 light years from the Sun toward the constellation of the Eagle (Aquila).  In the featured animated illustration of the incident, the gas planet's atmosphere is first pictured being stripped away as it skims along the outskirts of the attracting star. Some of the planet's gas is absorbed into the star's atmosphere, while other gas is expelled into space.  By the video's end, the planet is completely engulfed and falls into the star's center, causing the star's outer atmosphere to briefly expand, heat up, and brighten. One day, about eight billion years from now, planet Earth may spiral into our Sun.",
-        "media_type": "video",
-        "service_version": "v1",
-        "title": "Star Eats Planet",
-        "url": "https://www.youtube.com/embed/SmuG7odUe9c?rel=0"
     },
     {
         "copyright": "\nBrian Brennan\n",
@@ -1687,14 +1645,6 @@
         "url": "https://apod.nasa.gov/apod/image/2306/IssMoon_Yang_960.jpg"
     },
     {
-        "date": "2023-06-13",
-        "explanation": "Jupiter's moons circle Jupiter. The featured video depicts Europa and Io, two of Jupiter's largest moons, crossing in front of the grand planet's Great Red Spot, the largest known storm system in our Solar System. The video was composed from images taken by the robotic Cassini spacecraft as it passed Jupiter in 2000, on its way to Saturn. The two moons visible are volcanic Io, in the distance, and icy Europa.  In the time-lapse video, Europa appears to overtake Io, which is odd because Io is closer to Jupiter and moves faster. The explanation is that the motion of the fast Cassini spacecraft changes the camera location significantly during imaging.  Jupiter is currently being visited by NASA's robotic Juno spacecraft, while ESA's Jupiter Icy Moons Explorer (JUICE), launched in April, is enroute.",
-        "media_type": "video",
-        "service_version": "v1",
-        "title": "Moons Across Jupiter",
-        "url": "https://www.youtube.com/embed/YEXuGgRCyS0?rel=0"
-    },
-    {
         "copyright": "\nStephen Kennedy\n",
         "date": "2023-06-14",
         "explanation": "There is no sea on Earth large enough to contain the Shark nebula. This predator apparition poses us no danger as it is composed only of interstellar gas and dust. Dark dust like that featured here is somewhat like cigarette smoke and created in the cool atmospheres of giant stars. After being expelled with gas and gravitationally recondensing, massive stars may carve intricate structures into their birth cloud using their high energy light and fast stellar winds as sculpting tools.  The heat they generate evaporates the murky molecular cloud as well as causing ambient hydrogen gas to disperse and glow red.  During disintegration, we humans can enjoy imagining these great clouds as common icons, like we do for water clouds on Earth. Including smaller dust nebulae such as Lynds Dark Nebula 1235 and Van den Bergh 149 & 150, the Shark nebula spans about 15 light years and lies about 650 light years away toward the constellation of the King of Aethiopia (Cepheus).",
@@ -1722,14 +1672,6 @@
         "service_version": "v1",
         "title": "Sunset to Sunrise over the Baltic Sea",
         "url": "https://apod.nasa.gov/apod/image/2306/baltic-sea-timelapse-image600.jpg"
-    },
-    {
-        "date": "2023-06-17",
-        "explanation": "Recorded during 2017, timelapse sequences from the International Space Station are compiled in this serene video of planet Earth at Night. Fans of low Earth orbit can start by enjoying the view as green and red aurora borealis slather up the sky. The night scene tracks from northwest to southeast across North America, toward the Gulf of Mexico and the Florida coast. A second sequence follows European city lights, crosses the Mediterranean Sea, and passes over a bright Nile river in northern Africa. Seen from the orbital outpost, erratic flashes of lightning appear in thunder storms below and stars rise above the planet's curved horizon through a faint atmospheric airglow. Of course, from home you can always check out the vital signs of Planet Earth Now.  Tomorrow's answer: How many sides does northern Saturn have?  < | Archive | Submissions | Index | Search | Calendar | RSS | Education | About APOD | Discuss | >  Authors & editors: Robert Nemiroff (MTU) & Jerry Bonnell (UMCP) NASA Official: Phillip Newman Specific rights apply. NASA Web Privacy Policy and Important Notices A service of: ASD at NASA / GSFC & Michigan Tech. U.",
-        "media_type": "video",
-        "service_version": "v1",
-        "title": "Planet Earth at Night II",
-        "url": "https://www.youtube.com/embed/zIqG42AD4Gw?rel=0"
     },
     {
         "copyright": "\nNASA,\nESA,\nJPL,\nSSI,\nCassini Imaging Team\n",
@@ -2502,15 +2444,6 @@
         "url": "https://apod.nasa.gov/apod/image/2309/SuperBlueMoon_Saragozza_960.jpg"
     },
     {
-        "copyright": "\nJeff Dai\n(TWAN), \nH.E.S.S. Collaboration; \n Music: \nIbaotu catalog number 1044988 \n(Used with permission) \n",
-        "date": "2023-09-06",
-        "explanation": "They may look like modern mechanical dinosaurs, but they are enormous swiveling eyes that watch the sky. The High Energy Stereoscopic System (H.E.S.S.) Observatory is composed of four 12-meter reflecting-mirror telescopes surrounding a larger telescope housing a 28-meter mirror. They are designed to detect strange flickers of blue light -- Cherenkov radiation --emitted when charged particles move slightly faster than the speed of light in air.  This light is emitted when a gamma ray from a distant source strikes a molecule in Earth's atmosphere and starts a charged-particle shower.  H.E.S.S. is sensitive to some of the highest energy photons (TeV) crossing the universe.  Operating since 2003 in Namibia, H.E.S.S. has searched for dark matter and has discovered over 50 sources emitting high energy radiation including supernova remnants and the centers of galaxies that contain supermassive black holes.  Pictured in June, H.E.S.S. telescopes swivel and stare in time-lapse sequences shot in front of our Milky Way Galaxy and the Magellanic Clouds -- as the occasional Earth-orbiting satellite zips by.   Surf the Universe: Random APOD Generator",
-        "media_type": "video",
-        "service_version": "v1",
-        "title": "HESS Telescopes Explore the High-Energy Sky",
-        "url": "https://www.youtube.com/embed/QmCFdFGNwmo?si=Sp8Y5IS2-pWVLPn0?rel=0"
-    },
-    {
         "copyright": "Chris Willocks",
         "date": "2023-09-07",
         "explanation": "The 16th century Portuguese navigator Ferdinand Magellan and his crew had plenty of time to study the southern sky during the first circumnavigation of planet Earth. As a result, two fuzzy cloud-like objects easily visible to southern hemisphere skygazers are known as the Clouds of Magellan, now understood to be satellite galaxies of our much larger, spiral Milky Way galaxy. About 160,000 light-years distant in the constellation Dorado, the Large Magellanic Cloud is seen in this sharp galaxy portrait. Spanning about 15,000 light-years or so, it is the most massive of the Milky Way's satellite galaxies and is the home of the closest supernova in modern times, SN 1987A.  The prominent patch above center is 30 Doradus, also known as the magnificent Tarantula Nebula, a giant star-forming region about 1,000 light-years across.",
@@ -2674,14 +2607,6 @@
         "service_version": "v1",
         "title": "Afternoon Analemma",
         "url": "https://apod.nasa.gov/apod/image/2309/4pm-analemma-nz_1024.jpg"
-    },
-    {
-        "date": "2023-09-24",
-        "explanation": "What's rising above the horizon behind those clouds? It's the Sun.  Most sunrises don't look like this, though, because most sunrises don't include the Moon. In the early morning of 2013 May 10, however, from Western Australia, the Moon was between the Earth and the rising Sun.  At times, it would be hard for the uninformed to understand what was happening.  In an annular eclipse, the Moon is too far from the Earth to block the entire Sun, and at most leaves a ring of fire where sunlight pours out around every edge of the Moon.  The featured time-lapse video also recorded the eclipse through the high refraction of the Earth's atmosphere just above the horizon, making the unusual rising Sun and Moon appear also flattened.  As the video continues, the Sun continues to rise, while the Sun and Moon begin to separate.  The next annular solar eclipse will occur in less than three weeks.  On Saturday, October 14, a ring of fire will be visible through clear skies from a thin swath crossing both North and South America.   Tour the Universe: Random APOD Generator",
-        "media_type": "video",
-        "service_version": "v1",
-        "title": "A Ring of Fire Sunrise Solar Eclipse",
-        "url": "https://www.youtube.com/embed/UJfpqSj7cCs?t=10?rel=0"
     },
     {
         "date": "2023-09-25",
@@ -2976,15 +2901,6 @@
         "url": "https://apod.nasa.gov/apod/image/2310/Arp87_HubblePathak_1080.jpg"
     },
     {
-        "copyright": "\nTengyu Cai\n",
-        "date": "2023-10-25",
-        "explanation": "In 60 seconds, this setting Sun will turn green. Actually, the top of the Sun already appears not only green, but wavey -- along with all of its edges. The Sun itself is unchanged -- both effects are caused by looking along hot and cold layers in Earth's atmosphere.  The unusual color is known as a green flash and occurs because these atmospheric layers not only shift background images but disperse colors into slightly different directions, like a prism.  The featured video was captured earlier this month off the coast of Hawaii, USA. After waiting those 60 seconds, at the video's end, the upper part of the Sun seems to hover alone in space, while turning not only green, but blue.  Then suddenly, the Sun appears to shrink to nothing -- only to return tomorrow.",
-        "media_type": "video",
-        "service_version": "v1",
-        "title": "Gone in 60 Seconds: A Green Flash Sunset",
-        "url": "https://www.youtube.com/embed/J3_88eyN44w?rel=0"
-    },
-    {
         "copyright": "David Cortner",
         "date": "2023-10-26",
         "explanation": "History's first known periodic comet, Comet Halley (1P/Halley), returns to the inner Solar System every 76 years or so. The famous comet made its last appearance to the naked-eye in 1986. But dusty debris from Comet Halley can be seen raining through planet Earth's skies twice a year during two annual meteor showers, the Eta Aquarids in May and the Orionids in October. In fact, an unhurried series of exposures captured these two bright meteors, vaporizing bits of Halley dust, during the early morning hours of October 23 against a starry background along the Taurus molecular cloud. Impacting the atmosphere at about 66 kilometers per second their greenish streaks point back to the shower's radiant just north of Orion's bright star Betelgeuse off the lower left side of the frame. The familiar Pleiades star cluster anchors the dusty celestial scene at the right.",
@@ -3102,14 +3018,6 @@
         "service_version": "v1",
         "title": "Red Aurora over Italy",
         "url": "https://apod.nasa.gov/apod/image/2311/RedAuroraItaly_Hofer_1080.jpg"
-    },
-    {
-        "date": "2023-11-07",
-        "explanation": "It moved across the surface of Mars -- what was it? A dust devil. Such spinning columns of rising air are heated by the warm surface and are also common in warm and dry areas on planet Earth.  Typically lasting only a few minutes, dust devils become visible as they pick up loose red-colored dust, leaving the darker and heavier sand beneath intact.  Dust devils not only look cool -- they can leave visible trails, and have been credited with unexpected cleanings of the surfaces of solar panels. The images in the featured AI-interpolated video were captured in early August by the Perseverance rover currently searching for signs of ancient life in Jezero Crater. The six-second time-lapse video encapsulates a real duration of just over one minute.  Visible in the distance, the spinning dust devil was estimated to be passing by at about 20 kilometers per hour and extend up about 2 kilometers high.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)",
-        "media_type": "video",
-        "service_version": "v1",
-        "title": "A Martian Dust Devil Spins By",
-        "url": "https://www.youtube.com/embed/xB3QIEkNJgs?rel=0"
     },
     {
         "date": "2023-11-08",
@@ -3355,15 +3263,6 @@
         "url": "https://apod.nasa.gov/apod/image/2312/StartrailsBeijingAncientObservatory-3_1024.jpg"
     },
     {
-        "copyright": "El Cielo de Canarias",
-        "date": "2023-12-03",
-        "explanation": "These people are not in danger. What is coming down from the left is just the Moon, far in the distance. Luna appears so large here because she is being photographed through a telescopic lens.  What is moving is mostly the Earth, whose spin causes the Moon to slowly disappear behind Mount Teide, a volcano in the Canary Islands off the northwest coast of Africa. The people pictured are 16 kilometers away and  many are facing the camera because they are watching the Sun rise behind the photographer. It is not a coincidence that a full moon rises just when the Sun sets because the Sun is always on the opposite side of the sky from a full moon. The featured video was made in 2018 during the full Milk Moon.  The video is not time-lapse -- this was really how fast the Moon was setting.",
-        "media_type": "video",
-        "service_version": "v1",
-        "title": "Moon Setting Behind Teide Volcano",
-        "url": "https://www.youtube.com/embed/afHfMMC-MJE?rel=0"
-    },
-    {
         "copyright": "\nJuned Patel\n",
         "date": "2023-12-04",
         "explanation": "No, the Moon is not a bow, and no, it did not shoot out a plane like an arrow. What is pictured is a chance superposition.  The plane's contrail would normally appear white, but the large volume of air toward the rising Sun preferentially knocked away blue light, not only making the sky blue, but giving the reflected trail a bright red hue.  Far in the distance, well behind the plane, the crescent Moon also appears slightly reddened. Captured early last month from Bolton, UK, the featured image was taken so soon after sunrise that the plane was sunlit from below, as was its contrail.  Within minutes, unfortunately, the impromptu sky show ended.  The plane moved out of sight.  The Moon kept rising but became harder to see through a brightening sky.  And the contrail gradually dispersed.",
@@ -3429,14 +3328,6 @@
         "service_version": "v1",
         "title": "Big Dipper over Pyramid Mountain",
         "url": "https://apod.nasa.gov/apod/image/2312/BigDipperMt2_Cullen_960.jpg"
-    },
-    {
-        "date": "2023-12-11",
-        "explanation": "The surface of our Sun is constantly changing.  Some years it is quiet, showing relatively few sunspots and active regions. Other years it is churning, showing many sunspots and throwing frequent Coronal Mass Ejections (CMEs) and flares. Reacting to magnetism, our Sun's surface goes through periods of relative calm, called Solar Minimum and relative unrest, called Solar Maximum, every 11 years. The featured video shows on the left a month in late 2019 when the Sun was near Solar Minimum, while on the right a month in 2014 when near Solar Maximum.  The video was taken by NASA's Solar Dynamic Observatory in far ultraviolet light. Our Sun is progressing again toward Solar Maximum in 2025, but displaying even now a surface with a surprisingly high amount of activity.   Night Sky Network webinar: APOD editor to review coolest space images of 2023",
-        "media_type": "video",
-        "service_version": "v1",
-        "title": "Solar Minimum versus Solar Maximum",
-        "url": "https://www.youtube.com/embed/JqH0diwqcUM?rel=0"
     },
     {
         "copyright": "\nGiulio Cobianchi\n",
@@ -3624,14 +3515,6 @@
         "url": "https://apod.nasa.gov/apod/image/2312/2023_12_27-fullmoon1024.jpg"
     },
     {
-        "date": "2023-12-31",
-        "explanation": "How did we get here? Click play, sit back, and watch.  A computer simulation of the evolution of the universe provides insight into how galaxies formed and perspectives into humanity's place in the universe.  The Illustris project exhausted 20 million CPU hours in 2014 following 12 billion resolution elements spanning a cube 35 million light years on a side as it evolved over 13 billion years. The simulation tracks matter into the formation of a wide variety of galaxy types. As the virtual universe evolves, some of the matter expanding with the universe soon gravitationally condenses to form filaments, galaxies, and clusters of galaxies. The featured video takes the perspective of a virtual camera circling part of this changing universe, first showing the evolution of dark matter, then hydrogen gas coded by temperature (0:45), then heavy elements such as helium and carbon (1:30), and then back to dark matter (2:07). On the lower left the time since the Big Bang is listed, while on the lower right the type of matter being shown is listed.  Explosions (0:50) depict galaxy-center supermassive black holes expelling bubbles of hot gas. Interesting discrepancies between Illustris and the real universe have been studied, including why the simulation produced an overabundance of old stars.",
-        "media_type": "video",
-        "service_version": "v1",
-        "title": "Illustris: A Simulation of the Universe",
-        "url": "https://www.youtube.com/embed/QSivvdIyeG4?si=CNXSnbIN_HXYZG0e?rel=0"
-    },
-    {
         "date": "2024-01-01",
         "explanation": "Galaxies are fascinating not only for what is visible, but for what is invisible. Grand spiral galaxy NGC 1232, captured in detail by one of the Very Large Telescopes, is a good example.  The visible is dominated by millions of bright stars and dark dust, caught up in a gravitational swirl of spiral arms revolving about the center. Open clusters containing bright blue stars can be seen sprinkled along these spiral arms, while dark lanes of dense interstellar dust can be seen sprinkled between them. Less visible, but detectable, are billions of dim normal stars and vast tracts of interstellar gas, together wielding such high mass that they dominate the dynamics of the inner galaxy.  Leading theories indicate that even greater amounts of matter are invisible, in a form we don't yet know. This pervasive dark matter is postulated, in part, to explain the motions of the visible matter in the outer regions of galaxies.    Free APOD Lecture: January 9, 2024 to the Amateur Astronomers of Association of New York",
         "hdurl": "https://apod.nasa.gov/apod/image/2401/ngc1232b_vlt_3969.jpg",
@@ -3678,14 +3561,6 @@
         "service_version": "v1",
         "title": "Trapezium: At the Heart of Orion",
         "url": "https://apod.nasa.gov/apod/image/2401/Image964_1024.jpg"
-    },
-    {
-        "date": "2024-01-06",
-        "explanation": "You couldn't really be caught in this blizzard while standing by a cliff on periodic comet 67P/Churyumov-Gerasimenko. Orbiting the comet in June of 2016, the Rosetta spacecraft's narrow angle camera did record streaks of dust and ice particles similar to snow as they drifted across the field of view close to the camera and above the comet's surface. Still, some of the bright specks in the scene are likely due to a rain of energetic charged particles or cosmic rays hitting the camera, and the dense background of stars in the direction of the constellation of the Big Dog (Canis Major). In the video, the background stars are easy to spot trailing from top to bottom. The stunning movie was constructed from 33 consecutive images taken over 25 minutes while Rosetta cruised some 13 kilometers from the comet's nucleus. In September 2016, the nucleus became the final resting place for the Rosetta spacecraft after its mission was ended with a successful controlled impact on 67P/Churyumov-Gerasimenko.",
-        "media_type": "video",
-        "service_version": "v1",
-        "title": "The Snows of Churyumov-Gerasimenko",
-        "url": "https://www.youtube.com/embed/PpyPgJHKxSw?rel=0"
     },
     {
         "date": "2024-01-07",
@@ -4106,14 +3981,6 @@
         "url": "https://apod.nasa.gov/apod/image/2402/Hoag_HubbleBlanco_1080.jpg"
     },
     {
-        "date": "2024-02-19",
-        "explanation": "What's happening near the Sun?  To help find out, NASA launched the robotic Parker Solar Probe (PSP) to investigate regions closer to the Sun than ever before. The PSP's looping orbit brings it nearer to the Sun each time around -- every few months. The featured time-lapse video shows the view looking sideways from behind PSP's Sun shield during its 16th approach to the Sun last year -- from well within the orbit of Mercury.  The PSP's Wide Field Imager for Solar Probe (WISPR) cameras took the images over eleven days, but they are digitally compressed here into about one minute video.  The waving of the solar corona is visible, as is a coronal mass ejection, with stars, planets, and even the central band of our Milky Way Galaxy streaming by in the background as the PSP orbits the Sun. PSP has found the solar neighborhood to be surprisingly complex and to include switchbacks -- times when the Sun's magnetic field briefly reverses itself.",
-        "media_type": "video",
-        "service_version": "v1",
-        "title": "Looking Sideways from the Parker Solar Probe",
-        "url": "https://www.youtube.com/embed/x-wX-wClfig?rel=0"
-    },
-    {
         "date": "2024-02-20",
         "explanation": "When galaxies collide, how many stars are born?  For AM1054-325, featured here in a recently released image by the Hubble Space Telescope, the answer is millions. Instead of stars being destroyed as galaxy AM1054-325 and a nearby galaxy circle each other, their gravity and motion has ignited stellar creation.  Star formation occurs rapidly in the gaseous debris stretching from AM1054-325\u2019s yellowish body due to the other galaxy\u2019s gravitational pull.  Hydrogen gas surrounding newborn stars glows pink.  Bright infant stars shine blue and cluster together in compact nurseries of thousands to millions of stars. AM1054-325 possesses over 100 of these intense-blue, dot-like star clusters, some appearing like a string of pearls.  Analyzing ultraviolet light helped determine that most of these stars are less than 10 million years old: stellar babies.  Many of these nurseries may grow up to be globular star clusters, while the bundle of young stars at the bottom tip may even detach and form a small galaxy.",
         "hdurl": "https://apod.nasa.gov/apod/image/2402/AM1054_Hubble_2000.jpg",
@@ -4172,14 +4039,6 @@
         "url": "https://apod.nasa.gov/apod/image/2402/PhoenixAurora_Helgason_960.jpg"
     },
     {
-        "date": "2024-02-26",
-        "explanation": "What if there were two moons in the sky -- and they eclipsed each other? This happens on Mars. The featured video shows a version of this unusual eclipse from space. Pictured are the two moons of Mars: the larger Phobos, which orbits closer to the red planet, and the smaller Deimos, which orbits further out. The sequence was captured last year by the ESA\u2019s Mars Express, a robotic spacecraft that itself orbits Mars. A similar eclipse is visible from the Martian surface, although very rarely.  From the surface, though, the closer moon Phobos would appear to pass in front of farther moon Deimos. Most oddly, Phobos orbits Mars so close that it appears to move backwards when compared to Earth's Moon from Earth, rising in west and setting in the east. Phobos, the closer moon, orbits so close and so fast that it passes nearly overhead about three times a day.",
-        "media_type": "video",
-        "service_version": "v1",
-        "title": "Martian Moon Eclipses Martian Moon",
-        "url": "https://youtube.com/embed/hwQTH0IGrwE?rel=0"
-    },
-    {
         "copyright": "\nSt\u00e9phane Vetter\n(Nuits sacr\u00e9es)\n",
         "date": "2024-02-27",
         "explanation": "It's easy to get lost following the intricate, looping, and twisting filaments of supernova remnant Simeis 147.  Also cataloged as Sharpless 2-240, the filamentary nebula goes by the popular nickname the Spaghetti Nebula.  Seen toward the boundary of the constellations of the Bull (Taurus) and the Charioteer (Auriga), the impressive gas structure covers nearly 3 degrees on the sky, equivalent to 6 full moons. That's about 150 light-years at the stellar debris cloud's estimated distance of 3,000 light-years.  This composite image includes data taken through narrow-band filters isolating emission from hydrogen (red) and oxygen (blue) glowing gas. The supernova remnant has an estimated age of about 40,000 years, meaning light from this massive stellar explosion first reached the Earth when woolly mammoths roamed free.  Besides the expanding remnant, this cosmic catastrophe left behind a pulsar, a spinning neutron star that is the remnant of the original star's core.",
@@ -4226,15 +4085,6 @@
         "service_version": "v1",
         "title": "Odysseus on the Moon",
         "url": "https://apod.nasa.gov/apod/image/2403/IM_Odysseus_landing-1100x600.png"
-    },
-    {
-        "copyright": "\nJun Ho Oh (KAIST, \nHuboLab); \n Music: \nFlowing Air by \nMattia Vlad Morleo\n",
-        "date": "2024-03-03",
-        "explanation": "How would you feel if the Sun disappeared? Many eclipse watchers across the USA surprised themselves in 2017 with the awe that they felt and the exclamations that they made as the Sun momentarily disappeared behind the Moon. Perhaps expecting just a brief moment of dusk, the spectacle of unusually rapid darkness, breathtakingly bright glowing beads around the Moon's edge, shockingly pink solar prominences, and a strangely detailed corona stretching across the sky caught many a curmudgeon by surprise.  Many of these attributes  were captured in the featured real-time, three-minute video of 2017's total solar eclipse. The video frames were acquired in  Warm Springs, Oregon with equipment specifically designed by Jun Ho Oh to track a close-up of the Sun's periphery during eclipse.  As the video ends, the Sun is seen being reborn on the other side of the Moon from where it departed.  Next month, on April 8th, a new total solar eclipse will be visible in a thin band across North America.",
-        "media_type": "video",
-        "service_version": "v1",
-        "title": "A Total Solar Eclipse Close-Up in Real Time",
-        "url": "https://www.youtube.com/embed/5D9j-8Vhyto?rel=0&showinfo=0"
     },
     {
         "copyright": "\nN. D. Liao\n",
@@ -4442,14 +4292,6 @@
         "url": "https://apod.nasa.gov/apod/image/2403/eclipse99_mir_960.jpg"
     },
     {
-        "date": "2024-03-25",
-        "explanation": "What does a supernova remnant sound like? Although sound is a compression wave in matter and does not carry into empty space, interpretive sound can help listeners appreciate and understand a visual image of a supernova remnant in a new way. Recently, the Jellyfish Nebula (IC 443) has been sonified quite creatively.  In the featured sound-enhanced video, when an imaginary line passes over a star, the sound of a drop falling into water is played, a sound particularly relevant to the nebula's aquatic namesake.  Additionally, when the descending line crosses gas that glows red, a low tone is played, while green sounds a middle tone, and blue produces a tone with a relatively high pitch. Light from the supernova that created the Jellyfish Nebula left approximately 35,000 years ago, when humanity was in the stone age.  The nebula will slowly disperse over the next million years, although the explosion also created a dense neutron star which will remain indefinitely.",
-        "media_type": "video",
-        "service_version": "v1",
-        "title": "Sonified: The Jellyfish Nebula Supernova Remnant",
-        "url": "https://youtube.com/embed/NqBfQeJqkfU?rel=0"
-    },
-    {
         "date": "2024-03-26",
         "explanation": "Comet Pons-Brooks has quite a tail to tell.  First discovered in 1385, this erupting dirty snowball loops back into our inner Solar System every 71 years and, this time, is starting to put on a show for deep camera exposures.  In the featured picture, the light blue stream is the ion tail which consists of charged molecules pushed away from the comet's nucleus by the solar wind.  The ion tail, shaped by the Sun's wind and the comet's core's rotation, always points away from the Sun.  Comet 12P/Pons\u2013Brooks is now visible with binoculars in the early evening sky toward the northwest, moving perceptibly from night to night.  The frequently flaring comet is expected to continue to brighten, on the average, and may even become visible with the unaided eye --  during the day -- to those in the path of totality of the coming solar eclipse on April 8.",
         "hdurl": "https://apod.nasa.gov/apod/image/2403/CometPons_Peirce_5119.jpg",
@@ -4635,15 +4477,6 @@
         "url": "https://apod.nasa.gov/apod/image/2404/pinholepalm1024.png"
     },
     {
-        "copyright": "\nDavid Duarte\n",
-        "date": "2024-04-14",
-        "explanation": "How does a total solar eclipse end? Yes, the Moon moves out from fully blocking the Sun, but in the first few seconds of transition, interesting things appear. The first is called a diamond ring. Light might stream between mountains or through relative lowlands around the Moon's edge, as seen from your location, making this sudden first light, when combined with the corona that surrounds the Moon, look like a diamond ring. Within seconds other light streams appear that are called, collectively, Bailey's beads. In the featured video, it may seem that the pink triangular prominence on the Sun is somehow related to where the Sun begins to reappear, but it is not. Observers from other locations saw Bailey's beads emerge from different places around the Moon, away from the iconic triangular solar prominence visible to all. The video was captured with specialized equipment from New Boston, Texas, USA on April 8, 2024.   Solar Eclipse Imagery: Notable Submissions to APOD",
-        "media_type": "video",
-        "service_version": "v1",
-        "title": "How a Total Solar Eclipse Ended",
-        "url": "https://www.youtube.com/embed/w5uUcq__vMo?rel=0"
-    },
-    {
         "date": "2024-04-15",
         "explanation": "Something strange happened to this galaxy, but what? Known as the Cigar Galaxy and cataloged as M82, red glowing gas and dust are being cast out from the center.  Although this starburst galaxy was surely stirred up by a recent pass near its neighbor, large spiral galaxy M81, this doesn't fully explain the source of the red-glowing outwardly expanding gas and dust.  Evidence indicates that this material is being driven out by the combined emerging particle winds of many stars, together creating a galactic superwind. In the featured images, a Hubble Space Telescope image in visible light is shown on the left, while a James Webb Space Telescope image of the central region in infrared light is shown on the right.  Detailed inspection of the new Webb image shows, unexpectedly, that this red-glowing dust is associated with hot plasma. Research into the nature of this strange nearby galaxy will surely continue.    Total Eclipse Imagery: Notable Submissions to APOD",
         "hdurl": "https://apod.nasa.gov/apod/image/2404/M82Center_HubbleWebb_2000.jpg",
@@ -4700,14 +4533,6 @@
         "service_version": "v1",
         "title": "Diamonds in the Sky",
         "url": "https://apod.nasa.gov/apod/image/2404/tse2024Dobbs_1024.jpg"
-    },
-    {
-        "date": "2024-04-21",
-        "explanation": "Watch Juno zoom past Jupiter.  NASA's robotic spacecraft Juno is continuing on its now month-long, highly-elongated orbits around our Solar System's largest planet.  The featured video is from perijove 16, the sixteenth time that Juno passed near Jupiter since it arrived in mid-2016. Each perijove passes near a slightly different part of Jupiter's cloud tops.  This color-enhanced video has been digitally composed from 21 JunoCam still images, resulting in a 125-fold time-lapse. The video begins with Jupiter rising as Juno approaches from the north. As Juno reaches its closest view -- from about 3,500 kilometers over Jupiter's cloud tops -- the spacecraft captures the great planet in tremendous detail. Juno passes light zones and dark belts of clouds that circle the planet, as well as numerous swirling circular storms, many of which are larger than hurricanes on Earth.  As Juno moves away, the remarkable dolphin-shaped cloud is visible.  After the perijove, Jupiter recedes into the distance, now displaying the unusual clouds that appear over Jupiter's south.  To get desired science data, Juno swoops so close to Jupiter that its instruments are exposed to very high levels of radiation.",
-        "media_type": "video",
-        "service_version": "v1",
-        "title": "Perijove 16: Passing Jupiter",
-        "url": "https://www.youtube.com/embed/c4TU3arrZR8?rel=0"
     },
     {
         "copyright": "\nDario Giannobile\n",
@@ -4847,15 +4672,6 @@
         "url": "https://apod.nasa.gov/apod/image/2405/BhShredder_NASA_1080.jpg"
     },
     {
-        "copyright": "\nReinhold Wittich;\nMusic: Sunrise from \nAlso sprach Zarathusra \n(R. Strauss) \nby Sascha Ende\n",
-        "date": "2024-05-06",
-        "explanation": "This is how the Sun disappeared from the daytime sky last month. The featured time-lapse video was created from stills taken from Mountain View, Arkansas, USA on 2024 April 8. First, a small sliver of a normally spotted Sun went strangely dark. Within a few minutes, much of the background Sun was hidden behind the advancing foreground Moon. Within an hour, the only rays from the Sun passing the Moon appeared like a diamond ring. During totality, most of the surrounding sky went dark, making the bright pink prominences around the Sun's edge stand out, and making the amazing corona appear to spread into the surrounding sky.  The central view of the corona shows an accumulation of frames taken during complete totality. As the video ends, just a few minutes later, another diamond ring appeared -- this time on the other side of the Moon. Within the next hour, the sky returned to normal.   Celebrate the Voids: It's Black Hole Week at NASA!",
-        "media_type": "video",
-        "service_version": "v1",
-        "title": "A Total Solar Eclipse from Sliver to Ring",
-        "url": "https://www.youtube.com/embed/28gtfSziCgU?rel=0"
-    },
-    {
         "date": "2024-05-07",
         "explanation": "What happens when a black hole devours a star?  Many details remain unknown, but observations are providing new clues. In 2014, a powerful explosion was recorded by the ground-based robotic telescopes of the All Sky Automated Survey for SuperNovae (Project ASAS-SN), with followed-up observations by instruments including NASA's Earth-orbiting Swift satellite. Computer modeling of these emissions fit a star being ripped apart by a distant supermassive black hole.  The results of such a collision are portrayed in the featured artistic illustration. The black hole itself is a depicted as a tiny black dot in the center. As matter falls toward the hole, it collides with other matter and heats up. Surrounding the black hole is an accretion disk of hot matter that used to be the star, with a jet emanating from the black hole's spin axis.   Fall towards eternity: It's Black Hole Week at NASA!",
         "hdurl": "https://apod.nasa.gov/apod/image/2405/BlackHole_Simonnet_2491.jpg",
@@ -4865,14 +4681,6 @@
         "url": "https://apod.nasa.gov/apod/image/2405/BlackHole_Simonnet_960.jpg"
     },
     {
-        "date": "2024-05-08",
-        "explanation": "What would it look like to circle a black hole? If the black hole was surrounded by a swirling disk of glowing and accreting gas, then the great gravity of the black hole would deflect light emitted by the disk to make it look very unusual. The featured animated video gives a visualization. The video starts with you, the observer, looking toward the black hole from just above the plane of the accretion disk.  Surrounding the central black hole is a thin circular image of the orbiting disk that marks the position of the photon sphere -- inside of which lies the black hole's event horizon.  Toward the left, parts of the large main image of the disk appear brighter as they move toward you. As the video continues, you loop over the black hole, soon looking down from the top, then passing through the disk plane on the far side, then returning to your original vantage point. The accretion disk does some interesting image inversions -- but never appears flat. Visualizations such as this are particularly relevant today as black holes are being imaged in unprecedented detail by the Event Horizon Telescope.   Singularity Impressive: It's Black Hole Week at NASA!",
-        "media_type": "video",
-        "service_version": "v1",
-        "title": "Visualization: A Black Hole Accretion Disk",
-        "url": "https://www.youtube.com/embed/l36UkYtq6m0?rel=0"
-    },
-    {
         "date": "2024-05-09",
         "explanation": "Bright elliptical galaxy Messier 87 (M87) is home to the supermassive black hole captured in 2017 by planet Earth's Event Horizon Telescope in the first ever image of a black hole. Giant of the Virgo galaxy cluster about 55 million light-years away, M87 is rendered in blue hues in this infrared image from the Spitzer Space telescope.  Though M87 appears mostly featureless and cloud-like, the Spitzer image does record details of relativistic jets blasting from the galaxy's central region. Shown in the inset at top right, the jets themselves span thousands of light-years. The brighter jet seen on the right is approaching and close to our line of sight. Opposite, the shock created by the otherwise unseen receding jet lights up a fainter arc of material. Inset at bottom right, the historic black hole image is shown in context at the center of giant galaxy, between the relativistic jets. Completely unresolved in the Spitzer image, the supermassive black hole surrounded by infalling material is the source of enormous energy driving the relativistic jets from the center of active galaxy M87. The Event Horizon Telescope image of M87 has been enhanced to reveal a sharper view of the famous supermassive black hole.   It's inescapable: Black Hole Week at NASA!",
         "hdurl": "https://apod.nasa.gov/apod/image/2405/pia23122c-16.jpg",
@@ -4880,14 +4688,6 @@
         "service_version": "v1",
         "title": "The Galaxy, the Jet, and a Famous Black Hole",
         "url": "https://apod.nasa.gov/apod/image/2405/pia23122c-16_1067.jpg"
-    },
-    {
-        "date": "2024-05-10",
-        "explanation": "Relax and watch two black holes merge. Inspired by the first direct detection of gravitational waves in 2015, this simulation plays in slow motion but would take about one third of a second if run in real time. Set on a cosmic stage, the black holes are posed in front of stars, gas, and dust. Their extreme gravity lenses the light from behind them into Einstein rings as they spiral closer and finally merge into one. The otherwise invisible gravitational waves generated as the massive objects rapidly coalesce cause the visible image to ripple and slosh both inside and outside the Einstein rings even after the black holes have merged. Dubbed GW150914, the gravitational waves detected by LIGO are consistent with the merger of 36 and 31 solar mass black holes at a distance of 1.3 billion light-years. The final, single black hole has 63 times the mass of the Sun, with the remaining 3 solar masses converted into energy radiated in gravitational waves.   Today's Event Horizon: It's Black Hole Week at NASA!",
-        "media_type": "video",
-        "service_version": "v1",
-        "title": "Simulation: Two Black Holes Merge",
-        "url": "https://www.youtube.com/embed/I_88S8DWbcU?rel=0"
     },
     {
         "copyright": "\nFranco Fantasia & \nGuiseppe Conzo \n(Gruppo Astrofili Palidoro)\n",
@@ -4970,14 +4770,6 @@
         "url": "https://apod.nasa.gov/apod/image/2405/AuroraStartrails_chiragupreti1024.jpg"
     },
     {
-        "date": "2024-05-19",
-        "explanation": "Take this simulated plunge and dive into the upper atmosphere of Jupiter, the Solar System's ruling gas giant. The awesome animation is based on image data from JunoCam, and the microwave radiometer on board the Jupiter-orbiting Juno spacecraft. Your view will start about 3,000 kilometers above the southern Jovian cloud tops, and you can track your progress on the display at the left. As altitude decreases, temperature increases while you dive deeper at the location of Jupiter's famous Great Red Spot. In fact, Juno data indicates the Great Red Spot, the Solar System's largest storm system, penetrates some 300 kilometers into the giant planet's atmosphere. For comparison, the deepest point for planet Earth's oceans is just under 11 kilometers down. Don't worry though, you'll fly back out again.   Dive into the Universe: Random APOD Generator",
-        "media_type": "video",
-        "service_version": "v1",
-        "title": "Jupiter Diving",
-        "url": "https://www.youtube.com/embed/uj3Lq7Gu94Y?rel=0"
-    },
-    {
         "copyright": "\nXuecheng Liu & \nYuxuan Liu\n",
         "date": "2024-05-20",
         "explanation": "It seemed like night, but part of the sky glowed purple.  It was the now famous night of May 10, 2024, when people over much of the world reported beautiful aurora-filled skies. The featured image was captured this night during early morning hours from Arlington, Wisconsin, USA. The panorama is a composite of several 6-second exposures covering two thirds of the visible sky, with north in the center, and processed to heighten the colors and remove electrical wires. The photographer (in the foreground) reported that the aurora appeared to flow from a point overhead but illuminated the sky only toward the north. The aurora's energetic particles originated from CMEs ejected from our Sun over sunspot AR 3664 a few days before. This large active region rotated to the far side of the Sun last week, but may well survive to rotate back toward the Earth next week.",
@@ -5054,14 +4846,6 @@
         "url": "https://apod.nasa.gov/apod/image/2405/Cederblad111-110_1024.jpg"
     },
     {
-        "date": "2024-05-28",
-        "explanation": "It's back. The famous active region on the Sun that created auroras visible around the Earth earlier this month has survived its rotation around the far side of the Sun -- and returned.  Yesterday, as it was beginning to reappear on the Earth-facing side, the region formerly labeled AR 3664 threw another major solar flare, again in the highest-energy X-class range. The featured video shows the emerging active region on the lower left, as it was captured by NASA's Earth-orbiting Solar Dynamics Observatory yesterday in ultraviolet light. The video is a time-lapse of the entire Sun rotating over 24 hours.  Watch the lower-left region carefully at about the 2-second mark to see the powerful flare burst out. The energetic particles from that flare and associated CME are not expected to directly impact the Earth and trigger impressive auroras, but scientists will keep a close watch on this unusually active region over the next two weeks, as it faces the Earth, to see what develops.",
-        "media_type": "video",
-        "service_version": "v1",
-        "title": "Solar X Flare as Famous Active Region Returns",
-        "url": "https://www.youtube.com/embed/yt7uwWzSTw0?rel=0"
-    },
-    {
         "copyright": "\nMarcin Rosadzi\u0144ski\n",
         "date": "2024-05-29",
         "explanation": "What happens if you ascend this stairway to the Milky Way? Before answering that, let's understand the beautiful sky you will see.  Most eye-catching is the grand arch of the Milky Way Galaxy, the band that is the central disk of our galaxy which is straight but distorted by the wide-angle nature of this composite image.  Many stars well in front of the Milk Way will be visible, with the bright white star just below the stellar arch being Altair, and the bright blue star above it being Vega.  The air glows green on the left, just above the yellow cloud deck.  The featured image was taken last month on Portugal's Madeira Island in the North Atlantic Ocean.  Oh, and what happens after you reach the top of these stairs and admire the amazing sky is, quite probably, that you then descend down the stairs on the other side.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)",
@@ -5099,14 +4883,6 @@
         "service_version": "v1",
         "title": "Stereo Helene",
         "url": "https://apod.nasa.gov/apod/image/2406/N00172886_92_beltramini.jpg"
-    },
-    {
-        "date": "2024-06-02",
-        "explanation": "No one, presently, sees the Moon rotate like this. That's because the Earth's moon is tidally locked to the Earth, showing us only one side.  Given modern digital technology, however, combined with many detailed images returned by the Lunar Reconnaissance Orbiter (LRO), a high resolution virtual Moon rotation movie has been composed. The featured time-lapse video starts with the standard Earth view of the Moon. Quickly, though, Mare Orientale, a large crater with a dark center that is difficult to see from the Earth, rotates into view just below the equator.  From an entire lunar month condensed into 24 seconds, the video clearly shows that the Earth side of the Moon contains an abundance of dark lunar maria, while the lunar far side is dominated by bright lunar highlands. Currently, over 32 new missions to the Moon are under active development from multiple countries and companies, including NASA's Artemis program which aims to land people on the Moon again within the next few years.",
-        "media_type": "video",
-        "service_version": "v1",
-        "title": "Rotating Moon from LRO",
-        "url": "https://www.youtube.com/embed/sNUNB6CMnE8?rel=0"
     },
     {
         "copyright": "(Team F.A.C.T.)",
@@ -5236,14 +5012,6 @@
         "url": "https://apod.nasa.gov/apod/image/2406/Halpha_sondergaard1024.jpg"
     },
     {
-        "date": "2024-06-16",
-        "explanation": "What happens if a star gets too close to a black hole? The black hole can rip it apart -- but how? It's not the high gravitational attraction itself that's the problem -- it's the difference in gravitational pull across the star that creates the destruction.  In the featured animated video illustrating this disintegration, you first see a star approaching the black hole.  Increasing in orbital speed, the star's outer atmosphere is ripped away during closest approach.  Much of the star's atmosphere disperses into deep space, but some continues to orbit the black hole and forms an accretion disk. The animation then takes you into the accretion disk while looking toward the black hole. Including the strange visual effects of gravitational lensing, you can even see the far side of the disk.  Finally, you look along one of the jets being expelled along the spin axis.  Theoretical models indicate that these jets not only expel energetic gas, but also create energetic neutrinos -- one of which may have been seen recently on Earth.    Almost Hyperspace: Random APOD Generator",
-        "media_type": "video",
-        "service_version": "v1",
-        "title": "Animation: Black Hole Destroys Star",
-        "url": "https://www.youtube.com/embed/ubBzcSD8G8k?rel=0"
-    },
-    {
         "copyright": "\nAlex Linde\n",
         "date": "2024-06-17",
         "explanation": "Squids on Earth aren't this big.  This mysterious squid-like cosmic cloud spans nearly three full moons on planet Earth's sky. Discovered in 2011 by French astro-imager Nicolas Outters, the Squid Nebula's bipolar shape is distinguished here by the telltale blue emission from doubly ionized oxygen atoms. Though apparently surrounded by the reddish hydrogen emission region Sh2-129, the true distance and nature of the Squid Nebula have been difficult to determine. Still, one investigation suggests Ou4 really does lie within Sh2-129 some 2,300 light-years away. Consistent with that scenario, the cosmic squid would represent a spectacular outflow of material driven by a triple system of hot, massive stars, cataloged as HR8119, seen near the center of the nebula. If so, this truly giant squid nebula would physically be over 50 light-years across.",
@@ -5331,15 +5099,6 @@
         "url": "https://apod.nasa.gov/apod/image/2406/Doodad_PughSung_1080.jpg"
     },
     {
-        "copyright": "\nJeff Dai\n(TWAN); \n Music: \nIbaotu catalog number 771024\n(Used with permission)\n",
-        "date": "2024-06-26",
-        "explanation": "What's happening in the sky this unusual night? Most striking in the featured 4.5-hour 360-degree panoramic video, perhaps, is the pink and purple aurora. That's because this night, encompassing May 11, was famous for its auroral skies around the world. As the night progresses, auroral bands shimmer, the central band of our Milky Way Galaxy rises, and stars shift as the Earth rotates beneath them.  Captured here simultaneously is a rare red band running above the aurora: a SAR arc, seen to change only slightly. The flashing below the horizon is caused by passing cars, while the moving spots in the sky are satellites and airplanes.  The featured video was captured from Xinjiang, China with four separate cameras.",
-        "media_type": "video",
-        "service_version": "v1",
-        "title": "Timelapse: Aurora, SAR, and the Milky Way",
-        "url": "https://www.youtube.com/embed/fisAZYNwDgk?rel=0"
-    },
-    {
         "date": "2024-06-27",
         "explanation": "Jets of material blasting from newborn stars, are captured in this James Webb Space Telescope close-up of the Serpens Nebula. The powerful protostellar outflows are bipolar, twin jets spewing in opposite directions. Their directions are perpendicular to accretion disks formed around the spinning, collapsing stellar infants. In the NIRcam image, the reddish color represents emission from molecular hydrogen and carbon monoxide produced as the jets collide with the surrounding gas and dust. The sharp image shows for the first time that individual outflows detected in the Serpens Nebula are generally aligned along the same direction. That result was expected, but has only now come into clear view with Webb's detailed exploration of the active young star-forming region. Brighter foreground stars exhibit Webb's characteristic diffraction spikes. At the Serpens Nebula's estimated distance of 1,300 light-years, this cosmic close-up frame is about 1 light-year across.",
         "hdurl": "https://apod.nasa.gov/apod/image/2406/STScI-SerpNorth.png",
@@ -5367,14 +5126,6 @@
         "service_version": "v1",
         "title": "A Solstice Moon",
         "url": "https://apod.nasa.gov/apod/image/2406/SolsMoon2024c1024.jpg"
-    },
-    {
-        "date": "2024-06-30",
-        "explanation": "About 12 seconds into this video, something unusual happens. The Earth begins to rise.  Never seen by humans before, the rise of the Earth over the limb of the Moon occurred about 55.5 years ago and surprised and amazed the crew of Apollo 8. The crew immediately scrambled to take still images of the stunning vista caused by Apollo 8's orbit around the Moon. The featured video is a modern reconstruction of the event as it would have looked were it recorded with a modern movie camera. The colorful orb of our Earth stood out as a familiar icon rising above a distant and unfamiliar moonscape, the whole scene the conceptual reverse of a more familiar moonrise as seen from Earth. To many, the scene also spoke about the unity of humanity: that big blue marble -- that's us -- we all live there. The two-minute video is not time-lapse -- this is the real speed of the Earth rising through the windows of Apollo 8. Seven months and three missions later, Apollo 11 astronauts would not only circle Earth's moon, but land on it.   NASA Administrator Remembers Earthrise Photographer William Anders",
-        "media_type": "video",
-        "service_version": "v1",
-        "title": "Earthrise: A Video Reconstruction",
-        "url": "https://www.youtube.com/embed/1R5QqhPq1Ik?rel=0"
     },
     {
         "date": "2024-07-01",
@@ -5532,15 +5283,6 @@
         "url": "https://apod.nasa.gov/apod/image/2407/CometaryGlobs_Pugh_1080.jpg"
     },
     {
-        "copyright": "\nGabriel Mu\u00f1oz;\nText: Natalia Lewandowska \n(SUNY Oswego)\n",
-        "date": "2024-07-17",
-        "explanation": "When Vulcan, the Roman god of fire, swings his blacksmith's hammer, the sky is lit on fire. A recent eruption of Chile's Villarrica volcano shows the delicate interplay between this fire -- actually glowing steam and ash from melted rock -- and the light from distant stars in our Milky Way galaxy and the Magellanic Clouds galaxies. In the featured timelapse video, the Earth rotates under the stars as Villarrica erupts.  With about 1350 volcanoes, our planet Earth rivals Jupiter's moon Io as the most geologically active place in the Solar System. While both have magnificent beauty, the reasons for the existence of volcanoes on both worlds are different. Earth's volcanoes typically occur between slowly shifting outer shell plates, while Io's volcanoes are caused by gravitational flexing resulting from Jupiter's tidal gravitational pull.",
-        "media_type": "video",
-        "service_version": "v1",
-        "title": "Villarrica Volcano Against the Sky",
-        "url": "https://www.youtube.com/embed/aX4ozspTPQY?rel=0"
-    },
-    {
         "copyright": "Christopher Freeburn",
         "date": "2024-07-18",
         "explanation": "Unlike most entries in Charles Messier's famous catalog of deep sky objects, M24 is not a bright galaxy, star cluster, or nebula. It's a gap in nearby, obscuring interstellar dust clouds that allows a view of the distant stars in the Sagittarius spiral arm of our Milky Way galaxy. Direct your gaze through this gap with binoculars or small telescope and you are looking through a window over 300 light-years wide at stars some 10,000 light-years or more from Earth. Sometimes called the Small Sagittarius Star Cloud, M24's luminous stars are left of center in this gorgeous starscape.  Covering over 6 degrees or the width of 12 full moons in the constellation Sagittarius, the telescopic field of view includes dark markings B92 and B93 near the center of M24, along with other clouds of dust and glowing nebulae toward the center of the Milky Way.",
@@ -5638,14 +5380,6 @@
         "url": "https://apod.nasa.gov/apod/image/2407/MoonSaturnOcc_Xu20240725_1024.jpg"
     },
     {
-        "date": "2024-07-28",
-        "explanation": "Sometimes, the surface of our Sun seems to dance. In the middle of 2012, for example, NASA's Sun-orbiting Solar Dynamic Observatory spacecraft imaged an impressive prominence that seemed to perform a running dive roll like an acrobatic dancer.  The dramatic explosion was captured in ultraviolet light in the featured time-lapse video covering about three hours. A looping magnetic field directed the flow of hot plasma on the Sun. The scale of the   dancing prominence is huge -- the entire Earth would easily fit under the flowing   arch of hot gas.  A quiescent prominence typically lasts about a month and may erupt in a Coronal Mass Ejection (CME), expelling hot gas into the Solar System.  The energy mechanism that creates a solar prominence is still a topic of research.  Like in 2012, this year the Sun's surface is again quite active and features many filaments and prominences.",
-        "media_type": "video",
-        "service_version": "v1",
-        "title": "Sun Dance",
-        "url": "https://www.youtube.com/embed/hQFEHH5E69s?rel=0"
-    },
-    {
         "copyright": "\nMax Inwood\n",
         "date": "2024-07-29",
         "explanation": "What's happening above Uluru?  A United Nations World Heritage Site, Uluru  is an extraordinary 350-meter high mountain in central Australia that rises sharply from nearly flat surroundings. Composed of sandstone, Uluru has slowly formed over the past 300 million years as softer rock eroded away.  The Uluru region has been a home to humans for over 22,000 years. Recorded  last month, the starry sky above Uluru includes the central band of our Milky Way galaxy, complete with complex dark filaments of dust, bright red emission nebulas, and billions of stars.",
@@ -5702,14 +5436,6 @@
         "service_version": "v1",
         "title": "Glory and Fog Bow",
         "url": "https://apod.nasa.gov/apod/image/2408/GloryFog_label.png"
-    },
-    {
-        "date": "2024-08-04",
-        "explanation": "What would it look like to return home from outside our galaxy? Although designed to answer greater questions, data from ESA's robotic Gaia mission is helping to provide a uniquely modern perspective on humanity's place in the universe.  Gaia orbits the Sun near the Earth and resolves stars' positions so precisely that it can determine a slight shift from its changing vantage point over the course of a year, a shift that is proportionately smaller for more distant stars -- and so determines distance.  In the first sequence of the video, an illustration of the Milky Way is shown that soon resolves into a three-dimensional visualization of Gaia star data.  A few notable stars are labelled with their common names, while others stars are labelled with numbers from a Gaia catalog. Eventually, the viewer arrives in our stellar neighborhood where many stars were tracked by Gaia, and soon at our home star Sol, the Sun. At the video's end, the reflective glow of Sol's third planet becomes visible: Earth.",
-        "media_type": "video",
-        "service_version": "v1",
-        "title": "Gaia: Here Comes the Sun",
-        "url": "https://www.youtube.com/embed/XORui0wFKnE?rel=0"
     },
     {
         "copyright": "\nMakrem Larnaout\n",
@@ -5771,14 +5497,6 @@
         "url": "https://apod.nasa.gov/apod/image/2408/M20OriginalLRGBHaO3S2_1024x735.jpg"
     },
     {
-        "date": "2024-08-11",
-        "explanation": "Where do Perseid meteors come from? Mostly small bits of stony grit, Perseid meteoroids were once expelled from Comet Swift-Tuttle and continue to follow this comet's orbit as they slowly disperse.  The featured animation depicts the entire meteoroid stream as it orbits our Sun.  When the Earth nears this stream, as it does every year, the Perseid Meteor Shower occurs.  Highlighted as bright in the animation, comet debris this size is usually so dim it is practically undetectable.  Only a small fraction of this debris will enter the Earth's atmosphere, heat up and disintegrate brightly.  Tonight and the next few nights promise some of the better skies to view the Perseid shower as well as other active showers because the first quarter moon will be absent from the sky from midnight onward.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)",
-        "media_type": "video",
-        "service_version": "v1",
-        "title": "Animation: Perseid Meteor Shower",
-        "url": "https://www.meteorshowers.org/view/perseids"
-    },
-    {
         "copyright": "\nJosh Dury\n",
         "date": "2024-08-12",
         "explanation": "What's happening in the sky above Stonehenge? A meteor shower: specifically, the Perseid meteor shower. A few nights ago, after the sky darkened, many images of meteors from this year's Perseids were captured separately and merged into a single frame. Although the meteors all traveled on straight paths, these paths appear slightly curved by the wide-angle lens of the capturing camera. The meteor streaks can all be traced back to a single point on the sky called the radiant, here just off the top of the frame in the constellation of Perseus. The same camera took a deep image of the background sky that brought up the central band of our Milky Way galaxy running nearly vertical through the image center. The featured image was taken from Wiltshire, England, being careful to include, at the bottom, the famous astronomical monument of Stonehenge. Although the Perseids peaked last night, some Perseid meteors should still be visible for a few more nights.",
@@ -5836,14 +5554,6 @@
         "service_version": "v1",
         "title": "Sky Full of Arcs",
         "url": "https://apod.nasa.gov/apod/image/2408/RocketGannaway_1100c.jpg"
-    },
-    {
-        "date": "2024-08-18",
-        "explanation": "One of the most spectacular solar sights is an erupting prominence. In 2011, NASA's Sun-orbiting Solar Dynamic Observatory spacecraft imaged an impressively large prominence erupting from the surface. The dramatic explosion was captured in ultraviolet light in the featured time lapse video covering 90 minutes, where a new frame was taken every 24 seconds.  The scale of the prominence is huge -- the entire Earth would easily fit under the flowing  curtain of hot gas.  A solar prominence is channeled and sometimes held above the Sun's surface by the Sun's magnetic field. A quiescent prominence typically lasts about a month and may erupt in a Coronal Mass Ejection (CME) expelling hot gas into the Solar System.  The energy mechanism that creates a solar prominence is a continuing topic of research.  Our Sun is again near solar maximum and so very active, featuring numerous erupting prominences and CMEs, one of which resulted in picturesque auroras just over the past week.",
-        "media_type": "video",
-        "service_version": "v1",
-        "title": "A Solar Prominence Eruption from SDO",
-        "url": "https://www.youtube.com/embed/PBL1RBj-P1g?rel=0"
     },
     {
         "copyright": "\nLuis Romero Ventura\n",
@@ -5911,14 +5621,6 @@
         "service_version": "v1",
         "title": "Fresh Tiger Stripes on Saturn's Enceladus",
         "url": "https://apod.nasa.gov/apod/image/2408/EnceladusStripes_Cassini_960.jpg"
-    },
-    {
-        "date": "2024-08-26",
-        "explanation": "Did you see it?  One of the more common questions during a meteor shower occurs because the time it takes for a meteor to flash is similar to the time it takes for a head to turn.  Possibly, though, the glory of seeing bright meteors shoot across the sky -- while knowing that they were once small pebbles on another world -- might make it all worthwhile, even if your observing partner(s) can't always share in your experience. The featured video is composed of short clips taken in Inner Mongolia, China during the 2023 Perseid Meteor Shower. Several bright meteors were captured while live-reaction audio was being recorded -- just as the meteors flashed.  This year's 2024 Perseids also produced many beautiful meteors. Another good meteor shower to watch for is the Geminids which peak yearly in mid-December, this year with relatively little competing glow from a nearly new Moon.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)",
-        "media_type": "video",
-        "service_version": "v1",
-        "title": "Perseid Meteors Over Inner Mongolia",
-        "url": "https://www.youtube.com/embed/CwrvN0Q9_Sg?rel=0"
     },
     {
         "copyright": "\nPau Montplet Sanz\n",
@@ -6262,14 +5964,6 @@
         "url": "https://apod.nasa.gov/apod/image/2409/CometA3_Korona_1080.jpg"
     },
     {
-        "date": "2024-10-01",
-        "explanation": "How far can black hole jets extend? A new record was found just recently with the discovery of a 23-million light-year long jet pair from a black hole active billions of years ago.  Dubbed Porphyrion for a mythological Greek giant, the impressive jets were created by a type of black hole that does not usually create long jets -- one that is busy creating radiation from infalling gas. The featured animated video depicts what it might look like to circle around this powerful black hole system.  Porphyrion is shown as a fast stream of energetic particles, and the bright areas are where these particles are impacting surrounding gas. The discovery was made using data from the Keck and Mayall  (DESI) optical observatories as well as LOFAR and the Giant Metrewave Radio Telescope.  The existence of these jets demonstrates that black holes can affect not only their home galaxies but far out into the surrounding universe.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)",
-        "media_type": "video",
-        "service_version": "v1",
-        "title": "Porphyrion: The Longest Known Black Hole Jets",
-        "url": "https://www.youtube.com/embed/ExGvwNuKyMc?rel=0"
-    },
-    {
         "copyright": "\nIreneusz Nowak;  \nText: Natalia Lewandowska \n(SUNY Oswego)\n",
         "date": "2024-10-02",
         "explanation": "It is the largest satellite galaxy of our home Milky Way Galaxy. If you live in the south, the Large Magellanic Cloud (LMC) is quite noticeable, spanning about 10 degrees across the night sky, which is 20 times larger than the full moon towards the southern constellation of the dolphinfish (Dorado). Being only about 160,000 light years away, many details of the LMC's structure can be seen, such as its central bar and its single spiral arm. The LMC harbors numerous stellar nurseries where new stars are being born, which appear in pink in the featured image. It is home to the Tarantula Nebula, the currently most active star forming region in the entire Local Group, a small collection of nearby galaxies dominated by the massive Andromeda and Milky Way galaxies. Studies of the LMC and the Small Magellanic Cloud (SMC) by Henrietta Swan Leavitt led to the discovery of the period-luminosity relationship of Cepheid variable stars that are used to measure distances across the nearby universe.   Survey: Color Blindness and Astronomical Images",
@@ -6379,15 +6073,6 @@
         "url": "https://apod.nasa.gov/apod/image/2410/241010_eggleston_1024.jpg"
     },
     {
-        "copyright": "\nCristian Bigontina\n",
-        "date": "2024-10-13",
-        "explanation": "Did you see last night's aurora? This question was relevant around much of the world a few days ago because a powerful auroral storm became visible unusually far from the Earth's poles. The cause was a giant X-class solar flare on Tuesday that launched energetic electrons and protons into the Solar System, connecting to the Earth via our planet's magnetic field.  A red glow of these particles striking oxygen atoms high in  Earth's atmosphere pervades the frame, while vertical streaks dance. The featured video shows a one-hour timelapse as seen from Cortina d'Ampezzo over Alps Mountain peaks in northern Italy.  Stars from our Milky Way Galaxy dot the background while  streaks from airplanes and satellites punctuate the foreground. The high recent activity of our Sun is likely to continue to produce picturesque auroras over Earth during the next year or so.   Gallery: Global aurora during October 10/11, 2024",
-        "media_type": "video",
-        "service_version": "v1",
-        "title": "Aurora Timelapse Over Italian Alps",
-        "url": "https://www.youtube.com/embed/uCbpHh_rTgc?rel=0"
-    },
-    {
         "copyright": "\nBrennan Gilmore\n",
         "date": "2024-10-14",
         "explanation": "Go outside at sunset tonight and see a comet!  C/2023 A3 (Tsuchinshan\u2013ATLAS) has become visible in the early evening sky in northern locations to the unaided eye. To see the comet, look west through a sky with a low horizon. If the sky is clear and dark enough, you will not even need binoculars -- the faint tail of the comet should be visible just above the horizon for about an hour.  Pictured, Comet Tsuchinshan-ATLAS was captured two nights ago over the Lincoln Memorial monument in Washington, DC, USA.  With each passing day at sunset, the comet and its changing tail should be higher and higher in the sky, although exactly how bright and how long its tails will be can only be guessed.   Growing Gallery: Comet Tsuchinsan-ATLAS in 2024",
@@ -6396,15 +6081,6 @@
         "service_version": "v1",
         "title": "Comet Tsuchinshan-ATLAS Over the Lincoln Memorial",
         "url": "https://apod.nasa.gov/apod/image/2410/CometA3Dc_Gilmore_1080.jpg"
-    },
-    {
-        "copyright": "\nNico Lefaudeux\n",
-        "date": "2024-10-15",
-        "explanation": "How bright and strange will the tails of Comet Tsuchinshan-ATLAS become? The comet has brightened dramatically over the few weeks as it passed its closest to the Sun and, just three days ago, passed its closest to the Earth. C/2023 A3 (Tsuchinshan\u2013ATLAS) became of the brightest comets of the past century over the past few days, but was unfortunately hard to see because it was so nearly superposed on the Sun.  As the comet appears to move away from the Sun, it is becoming a remarkable sight -- but may soon begin to fade.  The featured animated video shows how the comet's tails have developed, as viewed from Earth, and gives one prediction about how they might further develop. As shown in the video, heavier parts of the  dust tail that trails the comet have begun to appear to point in nearly the opposite direction from lighter parts of the dust tail as well as the comet's  ion tail, the blue tail that is pushed directly out from the Sun by the solar wind.   Growing Gallery: Comet Tsuchinsan-ATLAS in 2024",
-        "media_type": "video",
-        "service_version": "v1",
-        "title": "Animation: Comet Tsuchinshan-ATLAS Tails Prediction",
-        "url": "https://www.youtube.com/embed/dY6poe072_c?rel=0"
     },
     {
         "copyright": "\nTristian McDonald\n",
@@ -6474,14 +6150,6 @@
         "service_version": "v1",
         "title": "M16: Pillars of Star Creation",
         "url": "https://apod.nasa.gov/apod/image/2410/M16_HubbleWebbPisano_960.jpg"
-    },
-    {
-        "copyright": "\nSpaceX\n",
-        "date": "2024-10-23",
-        "explanation": "Mechazilla has caught the Super Heavy booster! pic.twitter.com/6R5YatSVJX",
-        "media_type": "other",
-        "service_version": "v1",
-        "title": "Caught"
     },
     {
         "copyright": "Patrick Winkler",
@@ -6784,14 +6452,6 @@
         "url": "https://apod.nasa.gov/apod/image/2411/earth_cassinimessenger_1024c.jpg"
     },
     {
-        "date": "2024-11-24",
-        "explanation": "What lies at the center of our galaxy? In Jules Verne's science fiction classic, A Journey to the Center of the Earth, Professor Liedenbrock and his fellow explorers encounter many strange and exciting wonders. Astronomers already know of some of the bizarre objects that exist at our Galactic Center, including vast cosmic dust clouds, bright star clusters, swirling rings of gas, and even a supermassive black hole. Much of the Galactic Center is shielded from our view in visible light by the intervening dust and gas, but it can be explored using other forms of electromagnetic radiation. The featured video is actually a digital zoom into the Milky Way's center which starts by utilizing visible light images from the Digitized Sky Survey. As the movie proceeds, the light shown shifts to dust-penetrating infrared and highlights gas clouds that were recently discovered in 2013 to be falling toward the central black hole.",
-        "media_type": "video",
-        "service_version": "v1",
-        "title": "Journey to the Center of the Galaxy",
-        "url": "https://www.youtube.com/embed/FNHexFdacK0?rel=0"
-    },
-    {
         "copyright": "\nAlex Lin \n(Chilescope) \n",
         "date": "2024-11-25",
         "explanation": "One of the most identifiable nebulas in the sky, the Horsehead Nebula in Orion, is part of a large, dark, molecular cloud.  Also known as Barnard 33, the unusual shape was first discovered on a photographic plate in the late 1800s.  The red glow originates from hydrogen gas predominantly behind the nebula, ionized by the nearby bright star Sigma Orionis.  The darkness of the Horsehead is caused mostly by thick dust, although the lower part of the Horsehead's neck casts a shadow to the left.  Streams of gas leaving the nebula are funneled by a strong magnetic field.  Bright spots in the Horsehead Nebula's base are young stars just in the process of forming.  Light takes about 1,500 years to reach us from the Horsehead Nebula.  The featured image was taken from the Chilescope Observatory in the mountains of Chile.",
@@ -6877,15 +6537,6 @@
         "service_version": "v1",
         "title": "Ice Clouds over a Red Planet",
         "url": "https://apod.nasa.gov/apod/image/2412/MarsClouds_Perseverance_960.jpg"
-    },
-    {
-        "copyright": "\nNick Wright\n",
-        "date": "2024-12-04",
-        "explanation": "Does the Sun return to the same spot on the sky every day?\u00a0 No.\u00a0 A more visual answer is an analemma, a composite of sky images taken at the same time and from the same place over a year.\u00a0 At completion, you can see that the Sun makes a figure 8 on the sky.  The featured unusual analemma does not, however, picture the Sun directly: it was created by looking in the opposite direction. All that was required was noting where the shadow of an edge of a house was in the driveway every clear day at the same time.  Starting in March in Falcon, Colorado, USA, the photographer methodically marked the shadow's 1 pm location. In one frame you can even see the photographer himself.  Although this analemma will be completed in 2025, you can start drawing your own driveway analemma -- using no fancy equipment -- as soon as today.",
-        "media_type": "video",
-        "service_version": "v1",
-        "title": "Driveway Analemma",
-        "url": "https://www.youtube.com/embed/7QB_MOemCqs?rel=0"
     },
     {
         "copyright": "Marco Lorenzi",
@@ -7187,14 +6838,6 @@
         "url": "https://apod.nasa.gov/apod/image/2501/20250104PeriSolHaNeg1024.jpg"
     },
     {
-        "date": "2025-01-05",
-        "explanation": "Have you ever seen a rocket launch -- from space?  A close inspection of the featured time-lapse video will reveal a rocket rising to Earth orbit as seen from the International Space Station (ISS).  The Russian Soyuz-FG rocket was launched in November 2018 from the Baikonur Cosmodrome in Kazakhstan, carrying a Progress MS-10 (also 71P) module to bring needed supplies to the ISS.  Highlights in the 90-second video (condensing about 15-minutes) include city lights and clouds visible on the Earth on the lower left, blue and gold bands of atmospheric airglow running diagonally across the center, and distant stars on the upper right that set behind the Earth. A lower stage can be seen falling back to Earth as the robotic supply ship fires its thrusters and begins to close on the ISS, a space laboratory that celebrated its 25th anniversary in 2023. Astronauts who live aboard the Earth-orbiting ISS conduct, among more practical duties, numerous science experiments that expand human knowledge and enable future commercial industry in low Earth orbit.",
-        "media_type": "video",
-        "service_version": "v1",
-        "title": "Rocket Launch as Seen from the International Space Station",
-        "url": "https://www.youtube.com/embed/B1R3dTdcpSU?rel=0"
-    },
-    {
         "date": "2025-01-06",
         "explanation": "Billions of years from now, only one of these two galaxies will remain.  Until then, spiral galaxies NGC 2207 and IC 2163 will slowly pull each other apart, creating tides of matter, sheets of shocked gas, lanes of dark dust, bursts of star formation, and streams of cast-away stars.  The featured image in scientifically assigned colors is a composite of Hubble exposures in visible light and Webb exposures in infrared light. Astronomers predict that NGC 2207, the larger galaxy on the right, will eventually incorporate IC 2163, the smaller galaxy on the left.  In the most recent encounter that about peaked 40 million years ago, the smaller galaxy is swinging around counter-clockwise and is now slightly behind the larger galaxy.  The space between stars is so vast that when galaxies collide, the stars in them usually do not collide.   Jigsaw Challenge: Astronomy Puzzle of the Day",
         "hdurl": "https://apod.nasa.gov/apod/image/2501/CollidingGalaxies_WebbHubble_1877.jpg",
@@ -7319,14 +6962,6 @@
         "service_version": "v1",
         "title": "Full Moon, Full Mars",
         "url": "https://apod.nasa.gov/apod/image/2501/MarsLOc_Jan13_1024c.jpg"
-    },
-    {
-        "date": "2025-01-19",
-        "explanation": "What would it look like to land on Saturn's moon Titan? The European Space Agency's Huygens probe set down on the Solar System's cloudiest moon in 2005, and a time-lapse video of its descent images was created. Huygens separated from the robotic Cassini spacecraft soon after it achieved orbit around Saturn in late 2004 and began approaching Titan. For two hours after arriving, Huygens plummeted toward Titan's surface, recording at first only the shrouded moon's opaque atmosphere. The computerized truck-tire sized probe soon deployed a parachute to slow its descent, pierced the thick clouds, and began transmitting images of a strange surface far below never before seen in visible light. Landing in a dried sea and surviving for 90 minutes, Huygen's returned unique images of a strange plain of dark sandy soil strewn with smooth, bright, fist-sized rocks of ice.",
-        "media_type": "video",
-        "service_version": "v1",
-        "title": "Titan Touchdown: Huygens Descent Movie",
-        "url": "https://www.youtube.com/embed/msiLWxDayuA?rel=0"
     },
     {
         "date": "2025-01-20",
@@ -7484,15 +7119,6 @@
         "url": "https://apod.nasa.gov/apod/image/2502/RainbowFan_Eiguren_1080.jpg"
     },
     {
-        "copyright": "\nGabriel Mu\u00f1oz\n",
-        "date": "2025-02-05",
-        "explanation": "Where is Comet ATLAS going? In the featured time-lapse video, the comet is not itself moving very much, but the Earth's rotation makes it appear to be setting over a hill. The Comet C/2024 G3 (ATLAS) sequence was captured with an ordinary camera on January 22 from the Araucan\u00eda Region in central Chile. Comet ATLAS has been an impressive site in the evening skies of Earth's Southern Hemisphere over the past few weeks, so bright and awe-inspiring that it may eventually become known as the Great Comet of 2025. Unfortunately, Comet G3 ATLAS is not going anywhere anymore because its central nucleus broke up during its close pass to the Sun last month. Some of the comet's scattered remains of rocks and ice will continue to orbit the Sun, some in nearly the same outward section of the orbit that the comet's nucleus would have taken.",
-        "media_type": "video",
-        "service_version": "v1",
-        "title": "Comet G3 ATLAS Setting over a Chilean Hill\n",
-        "url": "https://www.youtube.com/embed/nt5j0NiVesQ"
-    },
-    {
         "copyright": "Lorand Fenyes",
         "date": "2025-02-06",
         "explanation": "Grand spiral galaxies often seem to get all the glory, flaunting their young, bright, blue star clusters in beautiful, symmetric spiral arms. But small, irregular galaxies form stars too. In fact dwarf galaxy IC 2574 shows clear evidence of intense star forming activity in its telltale reddish regions of glowing hydrogen gas. Just as in spiral galaxies, the turbulent star-forming regions in IC 2574 are churned by stellar winds and supernova explosions spewing material into the galaxy's interstellar medium and triggering further star formation. A mere 12 million light-years distant, IC 2574 is part of the M81 group of galaxies, seen toward the northern constellation Ursa Major. Also known as Coddington's Nebula, the lovely island universe is about 50,000 light-years across, discovered by American astronomer Edwin Coddington in 1898.",
@@ -7552,14 +7178,6 @@
         "url": "https://apod.nasa.gov/apod/image/2502/SpiderFly_Boddington_1080.jpg"
     },
     {
-        "date": "2025-02-12",
-        "explanation": "What can a space rock tell us about life on Earth?  NASA's OSIRIS-REx spacecraft made a careful approach to the near-Earth asteroid 101955 Bennu in October of 2020 to collect surface samples.  In September 2023, the robotic spaceship returned these samples to Earth.  A recent analysis has shown, surprisingly, that the samples contained 14 out of the 20 known amino acids that are the essential building blocks of life.  The presence of the amino acids re-introduces a big question: Could life have originated in space?  However, the protein building blocks themselves held another surprise -- they contained an even mixture of left-handed and right-handed amino acids -- in contrast to our Earth which only has left-handed ones.  This raises another big question: Why does life on Earth have only left-handed amino acids?  Research on this is sure to continue.",
-        "media_type": "video",
-        "service_version": "v1",
-        "title": "Asteroid Bennu Holds the Building Blocks of Life",
-        "url": "https://www.youtube.com/embed/ukCSRYcjSQw?rel=0"
-    },
-    {
         "copyright": "Roberto Marinoni",
         "date": "2025-02-13",
         "explanation": "Riding high in the constellation of Auriga, beautiful, blue VdB 31 is the 31st object in Sidney van den Bergh's 1966 catalog of reflection nebulae. It shares this well-composed celestial still life with dark, obscuring clouds B26, B27, and B28, recorded in Edward E. Barnard's 1919 catalog of dark markings in the sky. All are these nebulae are interstellar dust clouds. Barnard's dark nebulae block the light from background stars. For VdB 31 the dust preferentially reflects bluish starlight from embedded, hot, variable star AB Aurigae. Exploring the environs of AB Aurigae with the Hubble Space Telescope has revealed the several million year young star is itself surrounded by a flattened dusty disk with evidence for the ongoing formation of a planetary system. AB Aurigae is about 470 light-years away. At that distance this cosmic canvas would span about eight light-years.",
@@ -7588,14 +7206,6 @@
         "service_version": "v1",
         "title": "Parhelia at Abisko",
         "url": "https://apod.nasa.gov/apod/image/2502/_D8A2600d_1024.jpg"
-    },
-    {
-        "date": "2025-02-16",
-        "explanation": "Here comes Jupiter. NASA's robotic spacecraft Juno is continuing on its highly elongated orbits around our Solar System's largest planet.  The featured video is from perijove 11 in early 2018, the eleventh time Juno passed near Jupiter since it arrived in mid-2016.  This time-lapse, color-enhanced movie covers about four hours and morphs between 36 JunoCam images. The video begins with Jupiter rising as Juno approaches from the north. As Juno reaches its closest view -- from about 3,500 kilometers over Jupiter's cloud tops -- the spacecraft captures the great planet in tremendous detail. Juno passes light zones and dark belts of clouds that circle the planet, as well as numerous swirling circular storms, many of which are larger than hurricanes on Earth.  After the perijove, Jupiter recedes into the distance, then displaying the unusual clouds that appear over Jupiter's south.  To get desired science data, Juno swoops so close to Jupiter that its instruments are exposed to very high levels of radiation.",
-        "media_type": "video",
-        "service_version": "v1",
-        "title": "Perijove 11: Passing Jupiter",
-        "url": "https://www.youtube.com/embed/OfM7VlonD5c?rel=0"
     },
     {
         "copyright": "\nMartin LaMontagne\n",
@@ -7720,14 +7330,6 @@
         "service_version": "v1",
         "title": "Blue Ghost to the Moon",
         "url": "https://apod.nasa.gov/apod/image/2503/BlueGhost_lunar1067.jpg"
-    },
-    {
-        "date": "2025-03-02",
-        "explanation": "Have you heard about the Hubble Ultra-Deep Field?  Either way, you've likely not heard about it like this -- please run your cursor over the featured image and listen!  The Hubble Ultra-Deep Field (HUDF) was created in 2003-2004 with the Hubble Space Telescope staring for a long time toward near-empty space so that distant, faint galaxies would become visible.  One of the most famous images in astronomy, the HUDF is featured here in a vibrant way -- with sonified distances. Pointing to a galaxy will play a note that indicates its approximate redshift. Because redshifts shift light toward the red end of the spectrum of light, they are depicted here by a shift of tone toward the low end of the spectrum of sound.  The further the galaxy, the greater its cosmological redshift (even if it appears blue), and the lower the tone that will be played. The average galaxy in the HUDF is about 10.6 billion light years away and sounds like an F#. What's the most distant galaxy you can find?",
-        "media_type": "video",
-        "service_version": "v1",
-        "title": "The Hubble Ultra Deep Field in Light and Sound",
-        "url": "https://apod.nasa.gov/apod/image/1803/AstroSoM/hudf.html"
     },
     {
         "date": "2025-03-03",
@@ -7930,14 +7532,6 @@
         "url": "https://apod.nasa.gov/apod/image/2503/OgunquitBeach_Curiosity_960.jpg"
     },
     {
-        "copyright": "\nMauricio Salazar\n",
-        "date": "2025-03-24",
-        "explanation": "If the full Moon suddenly faded, what would you see? The answer was recorded in a dramatic time lapse video taken during the total lunar eclipse last week from Uruguay. During a total lunar eclipse, the Earth moves between the Moon and the Sun, causing the Moon to fade dramatically. The Moon never gets completely dark, though, since the Earth's atmosphere refracts some light. As the featured video begins, the scene may appear to be daytime and sunlit, but actually it is nighttime and lit by the glow of the full Moon. As the Moon becomes eclipsed and fades, background stars become visible. Most spectacularly, the sky surrounding the eclipsed moon suddenly appears to be full of stars and highlighted by the busy plane of our Milky Way Galaxy. Nearly two hours after the eclipse started, the Moon emerged from the Earth's shadow and its bright full glare again dominated the sky.",
-        "media_type": "other",
-        "service_version": "v1",
-        "title": "A Total Lunar Eclipse Over Uruguay"
-    },
-    {
         "copyright": "\nZixiong Jin\n",
         "date": "2025-03-25",
         "explanation": "What causes a blue band to cross the Moon during a lunar eclipse? The blue band is real but usually quite hard to see. The featured HDR image of last week's lunar eclipse, however -- taken from Norman, Oklahoma (USA) -- has been digitally processed to exaggerate  the colors.  The gray color on the upper right of the top lunar image is the Moon's natural color, directly illuminated by sunlight. The lower parts of the Moon on all three images are not directly lit by the Sun since it is being eclipsed -- it is in the Earth's shadow. It is faintly lit, though, by sunlight that has passed deep through Earth's atmosphere. This part of the Moon is red -- and called a blood Moon -- for the same reason that Earth's sunsets are red: because air scatters away more blue light than red. The unusual purple-blue band visible on the upper right of the top and middle images is different -- its color is augmented by sunlight that has passed high through Earth's atmosphere, where red light is better absorbed by ozone than blue.   Celestial Surprise: What picture did APOD feature on your birthday? (post 1995)",
@@ -7994,23 +7588,6 @@
         "service_version": "v1",
         "title": "A Partial Solar Eclipse over Iceland",
         "url": "https://apod.nasa.gov/apod/image/2504/PartialSolar_Gorecka_960.jpg"
-    },
-    {
-        "date": "2025-03-31",
-        "explanation": "If you watch long enough, a comet will appear.  Before then, you will see our Solar System from inside the orbit of Mercury as recorded by NASA's Parker Solar Probe looping around the Sun. The video captures coronal streamers into the solar wind, a small Coronal Mass Ejection, and planets including, in order of appearance, Mercury, Venus, Saturn, Earth, Mars, and Jupiter. Between the emergence of Earth and Mars, Comet Tsuchinshan-ATLAS appears with a distinctive tail.  The continuous fleeting streaks are high energy particles from the Sun impacting Parker's sideways looking camera.  The featured time-lapse video was taken last year during Encounter 21, Parker's 21st close approach to the Sun.  Studying data and images from Parker are delivering a better understanding of the dynamic Sun's effects on Earth's space weather as well as humanity's power grids, spacecraft, and space-faring astronauts.   Growing Gallery: Partial Solar Eclipse of 2025 March",
-        "media_type": "video",
-        "service_version": "v1",
-        "title": "Parker: The Solar System from Near the Sun",
-        "url": "https://www.youtube.com/embed/ItkhmT4sLbg"
-    },
-    {
-        "copyright": "\nJason Kurth;\nMusic: \nHouse of the Rising Sun \n(Sebastian McQueen via SoundCloud)\n",
-        "date": "2025-04-01",
-        "explanation": "Can the Sun appear to rise twice at the same time? This was just the case a few days ago from Les Escoumins, Quebec, Canada as our Solar System's bright central orb rose just as it was being partially eclipsed by the Moon. The featured video shows this unusual double-sunrise in real time and being reflected by the St. Lawrence River. Soon after the initial two spots of light appear over distant clouds, what appears to be bright horns become visible -- which are really just parts of the Sun not being eclipsed. Soon, the entire eclipsed Sun is visible above the horizon.  In all, this broken sunrise took less than two minutes during a partial eclipse that lasted many times longer.   Although the Moon circles the Earth once a month (moon-th), it does not always eclipse the Sun because its tilted orbit usually takes it above or below.    Gallery: Partial Solar Eclipse of 2025 March",
-        "media_type": "video",
-        "service_version": "v1",
-        "title": "A Double Sunrise from a Partial Eclipse",
-        "url": "https://www.youtube.com/embed/oTkbHJsqCZM?rel=0"
     },
     {
         "date": "2025-04-02",
@@ -8336,14 +7913,6 @@
         "url": "https://apod.nasa.gov/apod/image/2505/PlanetLines_Hervas_960.jpg"
     },
     {
-        "date": "2025-05-06",
-        "explanation": "If one black hole looks strange, what about two? Light rays from accretion disks around a pair of orbiting supermassive black holes make their way through the warped space-time produced by extreme gravity in this detailed computer visualization.  The simulated accretion disks have been given different false color schemes, red for the disk surrounding a 200-million-solar-mass black hole, and blue for the disk surrounding a 100-million-solar-mass black hole.  For these masses, though, both accretion disks would actually emit most of their light in the ultraviolet.  The video allows us to see both sides of each black hole at the same time.  Red and blue light originating from both black holes can be seen in the innermost ring of light, called the photon sphere, near their event horizons.  In the past decade, gravitational waves from black hole collisions have actually been detected, although the coalescence of supermassive black holes remains undiscovered.   Hole New Worlds: It's Black Hole Week at NASA!",
-        "media_type": "video",
-        "service_version": "v1",
-        "title": "The Doubly Warped World of Binary Black Holes",
-        "url": "https://www.youtube.com/embed/rQcKIN9vj3U?rel=0"
-    },
-    {
         "copyright": "\nCollaborative Astrophotography Team (CAT)\n",
         "date": "2025-05-07",
         "explanation": "In the upper left corner, surrounded by blue arms and dotted with red nebulas, is spiral galaxy M81.  In the lower right corner, marked by a light central line and surrounded by red glowing gas, is irregular galaxy M82.  This stunning vista shows these two mammoth galaxies locked in gravitational combat, as they have been for the past billion years.   The gravity from each galaxy dramatically affects the other during each hundred-million-year pass.  Last go-round, M82's gravity likely raised density waves rippling around M81, resulting in the richness of M81's spiral arms.  But M81 left M82 with violent star forming regions and colliding gas clouds so energetic the galaxy glows in X-rays.  This big battle is seen from Earth through the faint glow of an Integrated Flux Nebula, a little studied complex of diffuse gas and dust clouds in our Milky Way Galaxy. In a few billion years, only one galaxy will remain.",
@@ -8444,20 +8013,6 @@
         "service_version": "v1",
         "title": "Ares 3 Landing Site: The Martian Revisited",
         "url": "https://apod.nasa.gov/apod/image/2505/PIA19363_1024.jpg"
-    },
-    {
-        "date": "2025-05-18",
-        "explanation": "What if you could fly over Pluto -- what might you see? The New Horizons spacecraft did just this in 2015 July as it shot past the distant world at a speed of about 80,000 kilometers per hour. Images from this spectacular passage have been color enhanced, vertically scaled, and digitally combined into the featured two-minute time-lapse video. As your journey begins, light dawns on mountains thought to be composed of water ice but colored by frozen nitrogen.  Soon, to your right, you see a flat sea of mostly solid nitrogen that has segmented into strange polygons that are thought to have bubbled up from a comparatively warm interior.  Craters and ice mountains are common sights below. The video dims and ends over terrain dubbed bladed because it shows 500-meter high ridges separated by kilometer-sized gaps.  The robotic New Horizons spacecraft has too much momentum to ever return to Pluto and is now headed out of our Solar System.",
-        "media_type": "other",
-        "service_version": "v1",
-        "title": "Pluto Flyover from New Horizons"
-    },
-    {
-        "date": "2025-05-19",
-        "explanation": "What if you could fly over Pluto's moon Charon -- what might you see? The New Horizons spacecraft did just this in 2015 July as it zipped past Pluto and Charon with cameras blazing.  The images recorded allowed for a digital reconstruction of much of Charon's surface, further enabling the creation of fictitious flights over Charon created from this data.  One such fanciful, minute-long, time-lapse video is shown here with vertical heights and colors of surface features digitally enhanced.  Your journey begins over a wide chasm that divides different types of Charon's landscapes, a chasm that might have formed when Charon froze through. You soon turn north and fly over a colorful depression dubbed Mordor that, one hypothesis holds, is an unusual remnant from an ancient impact.  Your voyage continues over an alien landscape rich with never-before-seen craters, mountains, and crevices.  The robotic New Horizons spacecraft has too much momentum to ever return to Pluto and Charon and is now headed out of our Solar System.    Portal Universe: Random APOD Generator",
-        "media_type": "other",
-        "service_version": "v1",
-        "title": "Charon Flyover from New Horizons"
     },
     {
         "copyright": "\nMarzena Rogozinska\n",
@@ -9123,13 +8678,6 @@
         "url": "https://apod.nasa.gov/apod/image/2507/LightningVolcano_Montufar_960.jpg"
     },
     {
-        "date": "2025-07-28",
-        "explanation": "Why was this collision so strange? In 2022, to develop Earth-saving technology, NASA deliberately crashed the DART spacecraft into the asteroid moonlet Dimorphos. The hope was that this collision would alter the trajectory of Dimorphos around its parent asteroid Didymos and so demonstrate that similar collisions could, in theory, save the Earth from being hit by (other) hazardous asteroids.  But analyses of new results show that the effects of the collision are different than expected -- and we are trying to understand why.  Featured here is the time lapse video taken by the ejected LICIACube camera LUKE showing about 250 seconds of the expanding debris field of Dimorphos after the collision, with un-impacted Didymos passing in the foreground.  In 2026, Europe's Hera mission will reach the asteroids and release three spacecraft to better study the matter.",
-        "media_type": "other",
-        "service_version": "v1",
-        "title": "Collision at Asteroid Dimorphos"
-    },
-    {
         "copyright": "\nGeorge Chatzifrantzis\n",
         "date": "2025-07-29",
         "explanation": "Is the Helix Nebula looking at you? No, not in any biological sense, but it does look quite like an eye. The Helix Nebula is so named because it also appears that you are looking down the axis of a helix. In actuality, it is now understood to have a surprisingly complex geometry, including radial filaments and extended outer loops.  The Helix Nebula (aka NGC 7293) is one of brightest and closest examples of a planetary nebula, a gas cloud created at the end of the life of a Sun-like star. The remnant central stellar core, destined to become a white dwarf star, glows in light so energetic it causes the previously expelled gas to fluoresce. The featured picture, taken in red, green, and blue but highlighted by light emitted primarily by hydrogen was created from 12 hours of exposure through a personal telescope located in Greece.  A close-up of the inner edge of the Helix Nebula shows complex gas knots the origin of which are  still being researched.    Portal Universe: Random APOD Generator",
@@ -9254,13 +8802,6 @@
         "service_version": "v1",
         "title": "Zodiacal Road",
         "url": "https://apod.nasa.gov/apod/image/2508/ZodiacalRoad_Merzlyakov_960.jpg"
-    },
-    {
-        "date": "2025-08-11",
-        "explanation": "verybody sees the Sun.  Nobody's been there.  Starting in 2018, though, NASA launched the robotic Parker Solar Probe (PSP) to investigate regions near to the Sun for the first time.  The featured time-lapse video shows the view looking sideways from behind PSP's Sun shield in December during the closest approach of any human-made spacecraft to the Sun, looping down to only about five solar diameters above the Sun's hot surface.  The PSP's Wide Field Imager for Solar Probe (WISPR) cameras took these images over seven hours, but they are digitally compressed here into about 5 seconds.  The solar corona, including colliding coronal mass ejections (CMEs), is visible here in unprecedented detail, with stars passing far in the background.  The Sun is not only Earth's dominant energy source, but its variable solar wind also compresses Earth's atmosphere, triggers auroras, affects power grids, and can even damage orbiting communication satellites.",
-        "media_type": "other",
-        "service_version": "v1",
-        "title": "Closest Ever Images Near the Sun"
     },
     {
         "copyright": "\nMarcin Rosadzi\u0144ski\n",
@@ -9398,14 +8939,6 @@
         "service_version": "v1",
         "title": "The Meteor and the Star Cluster",
         "url": "https://apod.nasa.gov/apod/image/2508/MeteorPleiades_Alqasimi_960.jpg"
-    },
-    {
-        "copyright": "\nAndrea Girones\n",
-        "date": "2025-08-26",
-        "explanation": "What's hovering above the Sun?  A solar prominence. A prominence is a crest of hot gas expelled from the Sun's surface that is held aloft by the Sun's magnetic field.  Prominences can last for days, can suddenly explode into space, or just fall back to the Sun.  What decides a prominence's fate is how the Sun's complex magnetic field changes -- the field's direction can act like an offramp for trapped solar particles. The 3-second (repeating) time-lapse featured video was captured earlier this month from Ottawa, Ontario, Canada. It shows the development of a larger-than-Earth prominence as it appears to leak solar plasma back to the Sun, over the course of an hour. What is unusual is that the prominence appears to hover -- more simple and typical prominences form magnetic loops that connect back to the surface.  Many hours after this video ended, the hovering prominence disintegrated back into the Sun.    Explore the Universe: Random APOD Generator",
-        "media_type": "other",
-        "service_version": "v1",
-        "title": "A Leaky Solar Prominence"
     },
     {
         "date": "2025-08-27",
@@ -9553,7 +9086,7 @@
     {
         "copyright": "Wang Letian",
         "date": "2025-09-11",
-        "explanation": "The dark, inner shadow of planet Earth is called the umbra. Shaped like a cone extending into space, it has a circular cross section most easily seen during a lunar eclipse. And on the night of September 7/8 the Full Moon passed near the center of Earth's umbral cone, entertaining eclipse watchers around much of our fair planet, including parts of Antarctica, Australia, Asia, Europe, and Africa. Recorded from Zhangjiakou City, China, this timelapse composite image uses successive pictures from the total lunar eclipse, progressing left to right, to reveal the curved cross-section of the umbral shadow sliding across the Moon. Sunlight scattered by the atmosphere into Earth's umbra causes the lunar surface to appear reddened during totality. But close to the umbra's edge, the limb of the eclipsed Moon shows a distinct blue hue. The blue eclipsed moonlight originates as rays of sunlight pass through layers high in the upper stratosphere, colored by ozone that scatters red light and transmits blue. In the total phase of this leisurely lunar eclipse, the Moon was completely within the Earth's umbra for about 83 minutes.",
+        "explanation": "The dark, inner shadow of planet Earth is called the umbra. Shaped like a cone extending into space, it has a circular cross section most easily seen during a lunar eclipse. And on the night of September 7/8 the Full Moon passed near the center of Earth's umbral cone, entertaining eclipse watchers around much of our fair planet, including parts of Antarctica, Australia, Asia, Europe, and Africa. Recorded from Zhangjiakou City, China, this timelapse composite image uses successive pictures from the total lunar eclipse, progressing right to left, to reveal the curved cross-section of the umbral shadow sliding across the Moon. Sunlight scattered by the atmosphere into Earth's umbra causes the lunar surface to appear reddened during totality. But close to the umbra's edge, the limb of the eclipsed Moon shows a distinct blue hue. The blue eclipsed moonlight originates as rays of sunlight pass through layers high in the upper stratosphere, colored by ozone that scatters red light and transmits blue. In the total phase of this leisurely lunar eclipse, the Moon was completely within the Earth's umbra for about 83 minutes.",
         "hdurl": "https://apod.nasa.gov/apod/image/2509/UmbraEarth.jpg",
         "media_type": "image",
         "service_version": "v1",
@@ -9573,26 +9106,11 @@
     {
         "copyright": "Joao Yordanov Serralheiro",
         "date": "2025-09-13",
-        "explanation": "The steerable 60 foot diameter dish antenna of the One-Mile Telescope at Mullard Radio Astronomy Observatory, Cambridge, UK, is pointing skyward in this evocative night-skyscape. To capture the dramatic scene, consecutive 30 second exposures were recorded over a period of 90 minutes. Combined, the exposures reveal a background of gracefully arcing star trails that reflect planet Earth's daily rotation on its axis. The North Celestial Pole, the extension of Earth's axis of rotation into space, points near Polaris, the North Star. That's the bright star that creates the short trail near the center of the concentric arcs. But the historic One-Mile Telescope array also relied on planet Earth's rotation to operate. Exploring the universe at radio wavelengths, it was the first radio telescope to use Earth-rotation aperture synthesis. That technique uses the rotation of the Earth to change the relative orientation of the telescope array and celestial radio sources to create radio maps of the sky at a resolution better than that of the human eye.",
+        "explanation": "The steerable 60 foot diameter dish antenna of the One-Mile Telescope at Mullard Radio Astronomy Observatory, Cambridge, UK, is pointing skyward in this evocative night-skyscape. To capture the dramatic scene, consecutive 30 second exposures were recorded over a period of 90 minutes. Combined, the exposures reveal a background of gracefully arcing star trails that reflect planet Earth's daily rotation on its axis. The North Celestial Pole, the extension of Earth's axis of rotation into space, points near Polaris, the North Star. That's the bright star that creates the short trail near the center of the concentric arcs. But the historic One-Mile Telescope array also relied on planet Earth's rotation to operate. Exploring the universe at radio wavelengths, it was the first radio telescope to use Earth-rotation aperture synthesis. That technique uses the rotation of the Earth to change the relative orientation of the telescope array and celestial radio sources to create high resolution radio maps of the sky.",
         "hdurl": "https://apod.nasa.gov/apod/image/2509/StarTrailsOne-MileRadioTelescope2100.jpg",
         "media_type": "image",
         "service_version": "v1",
         "title": "Star Trails over One-Mile Radio Telescope",
         "url": "https://apod.nasa.gov/apod/image/2509/StarTrailsOne-MileRadioTelescope1050.jpg"
-    },
-    {
-        "date": "2025-09-14",
-        "explanation": "How does your favorite planet spin? Does it spin rapidly around a nearly vertical axis, or horizontally, or backwards?  The featured video animates NASA images of all eight planets in our Solar System to show them spinning side-by-side for an easy comparison. In the time-lapse video, a day on Earth -- one Earth rotation -- takes just a few seconds.  Jupiter rotates the fastest, while Venus spins not only the slowest (can you see it?), but backwards.  The inner rocky planets across the top underwent dramatic spin-altering collisions during the early days of the Solar System.  Why planets spin and tilt as they do remains a topic of research with much insight gained from modern computer modeling and the recent discovery and analysis of hundreds of exoplanets: planets orbiting other stars.",
-        "media_type": "video",
-        "service_version": "v1",
-        "title": "Planets of the Solar System: Tilts and Spins",
-        "url": "https://www.youtube.com/embed/my1euFQHH-o?rel=0"
-    },
-    {
-        "date": "2025-09-15",
-        "explanation": "Can our Sun become dangerous? Yes, sometimes. Every few years our Sun ejects a scary-large bubble of hot gas into the Solar System.  Every hundred years or so, when the timing, location, and magnetic field connections are just right, such a Coronal Mass Ejection (CME) will hit the Earth. When this happens, the Earth not only experiences dramatic auroras, but its magnetic field gets quickly pushed back and compressed, which causes electric grids to surge. Some of these surges could be dangerous, affecting satellites and knocking out power grids -- which can take months to fix.  Just such a storm -- called the Carrington Event -- occurred in 1859 and caused telegraph wires to spark. A similar CME passed near the Earth in 2012, and the featured animated video shows a computer model of what might have happened if it had been a direct hit.  In this model, the Earth's magnetopause becomes so compressed that it went inside the orbit of  geosynchronous communication satellites.",
-        "media_type": "other",
-        "service_version": "v1",
-        "title": "Earth During a Powerful Solar Storm"
     }
 ]
