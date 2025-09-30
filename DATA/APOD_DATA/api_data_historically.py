@@ -6,8 +6,8 @@ import json
 from datetime import datetime, timedelta
 from PIL import Image, UnidentifiedImageError
 
-START_DATE = datetime(2022, 12, 20)
-END_DATE = datetime(2025, 9, 15)
+START_DATE = datetime(2020, 1, 1)
+END_DATE = datetime(2025, 9, 29)
 API_URL = 'http://127.0.0.1:8000/v1/apod/'
 OUTPUT_FILENAME = 'DATA/APOD_DATA/apod_data.json'
 
@@ -71,18 +71,18 @@ def process_and_clean_data(all_data, filename, IMAGE_DIR='DATA/APOD_DATA/IMAGES'
         if not os.path.exists(image_path):
             apod_module.download_image(url, date, directory=IMAGE_DIR)
 
-        # # Verify the image file exists and is not corrupt
-        # if os.path.exists(image_path):
-        #     try:
-        #         with Image.open(image_path) as img:
-        #             img.verify()
-        #         # If verification passes, add the entry to our clean list
-        #         valid_entries.append(item)
-        #     except (UnidentifiedImageError, IOError, SyntaxError):
-        #         print(f"Corrupted image detected for {date}. Deleting file and skipping entry.")
-        #         os.remove(image_path) # Delete the corrupted file
-        # else:
-        #     print(f"Missing image file for date {date}. Skipping entry.")
+        # Verify the image file exists and is not corrupt
+        if os.path.exists(image_path):
+            try:
+                with Image.open(image_path) as img:
+                    img.verify()
+                # If verification passes, add the entry to our clean list
+                valid_entries.append(item)
+            except (UnidentifiedImageError, IOError, SyntaxError):
+                print(f"Corrupted image detected for {date}. Deleting file and skipping entry.")
+                os.remove(image_path) # Delete the corrupted file
+        else:
+            print(f"Missing image file for date {date}. Skipping entry.")
             
     # Save the final, cleaned list to the JSON file
     print(f"\nSaving {len(valid_entries)} verified entries to '{filename}'...")
