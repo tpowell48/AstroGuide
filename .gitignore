@@ -3,3 +3,4 @@ DATA/APOD_DATA/IMAGES
 __pycache__
 .DS_Store
 .env
+RAG/multimodal_db
