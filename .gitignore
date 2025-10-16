@@ -4,3 +4,7 @@ __pycache__
 .DS_Store
 .env
 RAG/multimodal_db
+VLLM/model-001.safetensors
+RAG/index-20251016T000330Z-1-001.zip
+RAG/multimodal_db-20251016T000326Z-1-001.zip
+VLLM/llava-apod-merged-20251016T000334Z-1-002.zip
