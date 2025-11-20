@@ -6,8 +6,8 @@ import json
 from datetime import datetime, timedelta
 from PIL import Image, UnidentifiedImageError
 
-START_DATE = datetime(2020, 1, 1)
-END_DATE = datetime(2025, 9, 29)
+START_DATE = datetime(1995, 6, 16)
+END_DATE = datetime(2025, 10, 1)
 API_URL = 'http://127.0.0.1:8000/v1/apod/'
 OUTPUT_FILENAME = 'DATA/APOD_DATA/apod_data.json'
 
