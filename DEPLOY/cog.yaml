@@ -1,0 +1,24 @@
+build:
+  gpu: true
+  python_version: "3.12.12"
+  cuda: "12.6"
+  python_packages:
+    - "torch==2.9.0"
+    - "vllm"
+    - "transformers"
+    - "pillow"
+    - "llama-index"
+    - "chromadb"
+    - "llama-index-vector-stores-chroma"
+    - "llama-index-embeddings-clip"
+    - "git+https://github.com/openai/CLIP.git"
+    - "requests"
+    - "bitsandbytes"
+    - "accelerate"
+    - "peft"
+
+  run:
+    - pip install huggingface-hub
+    - huggingface-cli download --resume-download tpowe2/astroguide --local-dir /src/model --local-dir-use-symlinks False
+    
+predict: "predict.py:Predictor"
