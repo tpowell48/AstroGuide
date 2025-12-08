@@ -1,6 +1,7 @@
 # AstroGuide: A Multimodal Astronomical Assistant
 
-**AstroGuide** is an AI-powered assistant designed to bridge the gap between visual astronomical data and scientific textual knowledge. By integrating a fine-tuned Vision-Language Model (VLLM) with a Retrieval-Augmented Generation (RAG) system, AstroGuide can interpret complex celestial imagery and provide answers grounded in verified scientific literature.
+**AstroGuide** is an AI-powered assistant designed to bridge the gap between visual astronomical data and scientific textual knowledge. By integrating a fine-tuned Vision-Language Model (VLLM) with a Retrieval-Augmented Generation (RAG) system, AstroGuide can interpret complex celestial imagery and provide answers grounded in verified scientific literature.<br>
+![Sample Reponse](SampleResponse)
 
 ## Features
 
