@@ -69,4 +69,4 @@ The system was trained and indexed on:
 - Dr. Muhammad Aminul Islam - *Advisor* (University of New Haven)
 
 ## Demo
-WIP
+[AstroGuide AI Agent Demo](https://youtu.be/xZV4z2Z-kVs)
