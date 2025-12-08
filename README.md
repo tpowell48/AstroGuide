@@ -18,8 +18,8 @@ The project consists of three core components:
 3. **AI Agent (The Orchestrator)**: An **n8n** workflow that manages user state in **Supabase** (PostgreSQL) and routes requests between the user interface and the model API.
 
 ## Repository Structure
-Some items are missing from this repository due to file size limitations.
-WIP
+Some items are missing from this repository due to file size limitations. <br>
+![Repository Structure](RepositoryStructure)
 
 ## Setup & Installation
 
