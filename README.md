@@ -1,7 +1,7 @@
 # AstroGuide: A Multimodal Astronomical Assistant
 
 **AstroGuide** is an AI-powered assistant designed to bridge the gap between visual astronomical data and scientific textual knowledge. By integrating a fine-tuned Vision-Language Model (VLLM) with a Retrieval-Augmented Generation (RAG) system, AstroGuide can interpret complex celestial imagery and provide answers grounded in verified scientific literature.<br>
-![Sample Reponse](SampleResponse)
+![Sample Reponse](SampleResponse.png)
 
 ## Features
 
@@ -16,11 +16,12 @@
 The project consists of three core components:
 1. **Vision-LLM (The Eyes)**: A **LLaVA-1.5-7b** model fine-tuned using **QLoRA** on the APOD dataset to accurately caption astronomical images.
 2. **RAG System (The Brain)**: A **LlamaIndex** + **ChromaDB** pipeline utilizing **CLIP embeddings** to perform multimodal retrieval (finding text relevant to images and vice versa).
-3. **AI Agent (The Orchestrator)**: An **n8n** workflow that manages user state in **Supabase** (PostgreSQL) and routes requests between the user interface and the model API.
+3. **AI Agent (The Orchestrator)**: An **n8n** workflow that manages user state in **Supabase** (PostgreSQL) and routes requests between the user interface and the model API.<br>
+![AstroGuidePipeline](AstroGuidePipeline.png)
 
 ## Repository Structure
 Some items are missing from this repository due to file size limitations. <br>
-![Repository Structure](RepositoryStructure)
+![Repository Structure](RepositoryStructure.png)
 
 ## Setup & Installation
 
